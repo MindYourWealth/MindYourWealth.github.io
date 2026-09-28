@@ -68,8 +68,10 @@ fetch("../instagram-posts.json", {cache:"no-store"})
         '<div class="body"><h3></h3>' +
         '<div class="price-row"><span class="price"></span>' +
         (it.was_price ? '<span class="list"></span>' : "") + "</div>" +
-        '<div class="meta"><a href="' + it.ig_url + '" target="_blank" rel="noopener">Watch on Instagram ' +
-        (it.ig_type === "reel" ? "▶" : "📷") + "</a> · " + it.date + "</div>" +
+        (it.ig_type === "story"
+          ? '<div class="meta">📸 Featured in our story</div>'
+          : '<div class="meta"><a href="' + it.ig_url + '" target="_blank" rel="noopener">Watch on Instagram ' +
+            (it.ig_type === "reel" ? "▶" : "📷") + "</a> · " + it.date + "</div>") +
         '<a class="cta" href="' + shopUrl + '" target="_blank" rel="nofollow sponsored noopener">Shop on Amazon</a></div>';
       card.querySelector("h3").textContent = it.name;
       card.querySelector(".price").textContent = it.price;
