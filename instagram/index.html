@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shop Our Instagram — Mind Your Wealth</title>
+<meta name="description" content="Shop the deals featured in our Instagram posts and reels. As an Amazon Associate I earn from qualifying purchases.">
+<style>
+  :root { --bg:#faf7f2; --card:#ffffff; --ink:#1f1b16; --muted:#6f655a; --accent:#b3541e; --accent-dark:#93400f; --line:#e8e0d4; --badge:#1d7a3a; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--ink); line-height:1.5; }
+  header { background:#1f1b16; color:#fff; padding:28px 20px 22px; text-align:center; }
+  header h1 { font-size:1.7rem; letter-spacing:.5px; }
+  header p { color:#d8cfc2; margin-top:6px; font-size:.95rem; }
+  header p a { color:#f0d9b5; }
+  .disclosure { max-width:960px; margin:18px auto 0; padding:0 20px; }
+  .disclosure div { background:#fff8e7; border:1px solid #ecd9a8; border-radius:10px; padding:12px 16px; font-size:.85rem; color:#5c4d1f; }
+  .disclosure strong { display:block; margin-bottom:2px; letter-spacing:.4px; font-size:.78rem; }
+  #grid { max-width:960px; margin:18px auto 40px; padding:0 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }
+  .card img { width:100%; height:200px; object-fit:contain; background:#fff; padding:10px; }
+  .card .body { padding:14px 14px 16px; display:flex; flex-direction:column; gap:8px; flex:1; }
+  .card h3 { font-size:.92rem; font-weight:600; line-height:1.35; }
+  .price-row { display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; }
+  .price { font-size:1.15rem; font-weight:700; color:var(--accent-dark); }
+  .list { font-size:.85rem; color:var(--muted); text-decoration:line-through; }
+  .meta { font-size:.78rem; color:var(--muted); }
+  .meta a { color:var(--accent-dark); }
+  .cta { margin-top:auto; display:block; text-align:center; background:var(--accent); color:#fff; text-decoration:none; font-weight:700; padding:11px; border-radius:9px; font-size:.92rem; }
+  .cta:hover { background:var(--accent-dark); }
+  #status { max-width:960px; margin:30px auto; padding:0 20px; text-align:center; color:var(--muted); }
+  footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
+</style>
+<!-- Google AdSense site tag -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header>
+  <h1>Shop Our Instagram</h1>
+  <p>Everything featured in our posts &amp; reels, in one place.</p>
+  <p style="margin-top:8px;"><a href="../">← Back to Today's Deals</a></p>
+</header>
+
+<div class="disclosure"><div>
+  <strong>AFFILIATE DISCLOSURE</strong>
+  As an Amazon Associate I earn from qualifying purchases. Prices change — the price on Amazon at checkout is what counts. #ad
+</div></div>
+
+<div id="grid"></div>
+<div id="status">Loading…</div>
+
+<footer>Mind Your Wealth · <a href="https://www.instagram.com/mindyourwealthdeals" style="color:inherit;">@mindyourwealthdeals</a></footer>
+
+<script>
+const TAG = "mindyourwealt-20";
+fetch("../instagram-posts.json", {cache:"no-store"})
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(items => {
+    document.getElementById("status").hidden = true;
+    const grid = document.getElementById("grid");
+    items.forEach(it => {
+      const card = document.createElement("div");
+      card.className = "card";
+      const shopUrl = "https://www.amazon.com/dp/" + it.asin + "?tag=" + TAG;
+      card.innerHTML =
+        '<img loading="lazy" src="../' + it.image + '" alt="">' +
+        '<div class="body"><h3></h3>' +
+        '<div class="price-row"><span class="price"></span>' +
+        (it.was_price ? '<span class="list"></span>' : "") + "</div>" +
+        '<div class="meta"><a href="' + it.ig_url + '" target="_blank" rel="noopener">Watch on Instagram ' +
+        (it.ig_type === "reel" ? "▶" : "📷") + "</a> · " + it.date + "</div>" +
+        '<a class="cta" href="' + shopUrl + '" target="_blank" rel="nofollow sponsored noopener">Shop on Amazon</a></div>';
+      card.querySelector("h3").textContent = it.name;
+      card.querySelector(".price").textContent = it.price;
+      if (it.was_price) card.querySelector(".list").textContent = "was " + it.was_price;
+      grid.appendChild(card);
+    });
+    if (!items.length) document.getElementById("status").textContent = "No featured posts yet — check back soon.";
+  })
+  .catch(() => { document.getElementById("status").textContent = "Couldn't load posts right now."; });
+</script>
+</body>
+</html>
