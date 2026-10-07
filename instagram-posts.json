@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B09WJHL6JM",
+    "name": "Columbia Steens Mountain 2.0 Full Zip Fleece Jacket (Mens)",
+    "price": "$29",
+    "was_price": "$65",
+    "image": "images/B09WJHL6JM.jpg",
+    "ig_url": "https://www.instagram.com/p/DeMnDktDwZs/",
+    "ig_type": "post",
+    "date": "2026-10-07"
+  },
+  {
     "asin": "B01EKUBU5Y",
     "name": "TruSkin Vitamin C Facial Serum with Vitamin E, Hyaluronic Acid + Aloe (2 fl oz)",
     "price": "$19.00",
@@ -107,16 +117,6 @@
     "image": "images/B07FNW57J7.jpg",
     "ig_url": "https://www.instagram.com/p/Dd2LSQiCeJv/",
     "ig_type": "post",
-    "date": "2026-09-28"
-  },
-  {
-    "asin": "B0DJG1731C",
-    "name": "Hopopro High-Pressure Filtered Shower Head with Handheld Combo (Chrome)",
-    "price": "$49.99",
-    "was_price": "$99.99",
-    "image": "images/B0DJG1731C.jpg",
-    "ig_url": "https://www.instagram.com/reel/Dd2KZERiZ8P/",
-    "ig_type": "reel",
     "date": "2026-09-28"
   }
 ]
