@@ -7,30 +7,74 @@
 <title>Shop Our Instagram — Mind Your Wealth</title>
 <meta name="description" content="Shop the deals featured in our Instagram posts and reels. As an Amazon Associate I earn from qualifying purchases.">
 <style>
-  :root { --bg:#faf7f2; --card:#ffffff; --ink:#1f1b16; --muted:#6f655a; --accent:#b3541e; --accent-dark:#93400f; --line:#e8e0d4; --badge:#1d7a3a; }
+  :root {
+    --cream:#fdf8f0; --card:#ffffff; --ink:#2b2118; --muted:#8a7a68;
+    --leaf:#2e6b4f; --leaf-dark:#1e4d38; --leaf-soft:#e7f2ea;
+    --terra:#e07856; --terra-dark:#c25a38; --blush:#f7d9d0; --gold:#f2b134;
+    --line:#efe3d3; --badge:#2e6b4f;
+  }
   * { box-sizing:border-box; margin:0; padding:0; }
-  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--ink); line-height:1.5; }
-  header { background:#1f1b16; color:#fff; padding:28px 20px 22px; text-align:center; }
-  header h1 { font-size:1.7rem; letter-spacing:.5px; }
-  header p { color:#d8cfc2; margin-top:6px; font-size:.95rem; }
-  header p a { color:#f0d9b5; }
-  .disclosure { max-width:960px; margin:18px auto 0; padding:0 20px; }
-  .disclosure div { background:#fff8e7; border:1px solid #ecd9a8; border-radius:10px; padding:12px 16px; font-size:.85rem; color:#5c4d1f; }
+  body {
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background-color:var(--cream); color:var(--ink); line-height:1.5;
+    background-image:
+      radial-gradient(circle at 12% 8%, rgba(242,177,52,.10) 0 90px, transparent 91px),
+      radial-gradient(circle at 88% 14%, rgba(224,120,86,.10) 0 70px, transparent 71px),
+      radial-gradient(circle at 6% 78%, rgba(46,107,79,.08) 0 110px, transparent 111px),
+      radial-gradient(circle at 94% 86%, rgba(242,177,52,.10) 0 80px, transparent 81px);
+  }
+  /* ---------- floral header (matches Today's Deals) ---------- */
+  header {
+    position:relative; overflow:hidden; text-align:center; color:#fff;
+    padding:40px 20px 34px;
+    background:linear-gradient(135deg,#1e4d38 0%,#2e6b4f 45%,#3f8a63 100%);
+  }
+  header .flora { position:absolute; opacity:.28; pointer-events:none; }
+  header .flora.tl { top:-24px; left:-24px; width:150px; transform:rotate(12deg); }
+  header .flora.tr { top:-30px; right:-30px; width:165px; transform:scaleX(-1) rotate(8deg); }
+  header h1 {
+    font-family:Georgia,"Times New Roman",serif; font-size:1.9rem; letter-spacing:1px;
+    text-shadow:0 2px 10px rgba(0,0,0,.25); position:relative;
+  }
+  header h1 .bloom { color:var(--gold); }
+  header p { color:#f3e9d6; margin-top:8px; font-size:.95rem; position:relative; }
+  header p a { color:var(--gold); font-weight:600; }
+  .disclosure { max-width:960px; margin:20px auto 0; padding:0 20px; }
+  .disclosure div {
+    background:#fffdf6; border:1px dashed #d9b98a; border-radius:12px;
+    padding:12px 16px 12px 46px; font-size:.85rem; color:#6b5a33; position:relative;
+  }
+  .disclosure div::before { content:"❀"; position:absolute; left:14px; top:10px; font-size:1.3rem; color:var(--terra); }
   .disclosure strong { display:block; margin-bottom:2px; letter-spacing:.4px; font-size:.78rem; }
-  #grid { max-width:960px; margin:18px auto 40px; padding:0 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:16px; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }
+  #grid { max-width:960px; margin:20px auto 40px; padding:0 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:16px; }
+  .card {
+    background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden;
+    display:flex; flex-direction:column; position:relative;
+    box-shadow:0 3px 10px rgba(120,90,60,.08); transition:transform .18s ease, box-shadow .18s ease;
+  }
+  .card:hover { transform:translateY(-4px); box-shadow:0 10px 24px rgba(120,90,60,.16); }
+  .card::after {
+    content:""; position:absolute; top:0; left:0; right:0; height:5px;
+    background:linear-gradient(90deg,var(--leaf),var(--gold),var(--terra));
+  }
   .card img { width:100%; height:200px; object-fit:contain; background:#fff; padding:10px; }
   .card .body { padding:14px 14px 16px; display:flex; flex-direction:column; gap:8px; flex:1; }
-  .card h3 { font-size:.92rem; font-weight:600; line-height:1.35; }
+  .card h3 { font-size:.92rem; font-weight:600; line-height:1.35; font-family:Georgia,serif; }
   .price-row { display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; }
-  .price { font-size:1.15rem; font-weight:700; color:var(--accent-dark); }
+  .price { font-size:1.15rem; font-weight:800; color:var(--terra-dark); }
   .list { font-size:.85rem; color:var(--muted); text-decoration:line-through; }
   .meta { font-size:.78rem; color:var(--muted); }
-  .meta a { color:var(--accent-dark); }
-  .cta { margin-top:auto; display:block; text-align:center; background:var(--accent); color:#fff; text-decoration:none; font-weight:700; padding:11px; border-radius:9px; font-size:.92rem; }
-  .cta:hover { background:var(--accent-dark); }
+  .meta a { color:var(--leaf-dark); font-weight:600; }
+  .cta {
+    margin-top:auto; display:block; text-align:center; color:#fff; text-decoration:none;
+    font-weight:700; padding:11px; border-radius:9px; font-size:.92rem;
+    background:linear-gradient(120deg,var(--terra),var(--terra-dark));
+    box-shadow:0 4px 12px rgba(224,120,86,.35); transition:all .18s ease;
+  }
+  .cta:hover { filter:brightness(1.07); transform:translateY(-1px); box-shadow:0 6px 16px rgba(224,120,86,.45); }
   #status { max-width:960px; margin:30px auto; padding:0 20px; text-align:center; color:var(--muted); }
-  footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
+  footer { max-width:960px; margin:0 auto 40px; padding:26px 20px 0; font-size:.78rem; color:var(--muted); text-align:center; border-top:1px solid var(--line); }
+  footer .flourish { display:block; font-size:1.3rem; letter-spacing:12px; color:var(--terra); opacity:.7; margin-bottom:8px; }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -38,7 +82,37 @@
 </head>
 <body>
 <header>
-  <h1>Shop Our Instagram</h1>
+  <svg class="flora tl" viewBox="0 0 200 200" fill="none" aria-hidden="true">
+    <g stroke="#f2b134" stroke-width="5" stroke-linecap="round">
+      <path d="M100 100 C 60 60, 40 90, 55 120"/><path d="M100 100 C 140 60, 160 90, 145 120"/>
+      <path d="M100 100 C 100 50, 80 40, 70 60"/><path d="M100 100 C 100 150, 120 160, 130 140"/>
+    </g>
+    <circle cx="100" cy="100" r="16" fill="#f2b134"/>
+    <g fill="#e07856" opacity=".9">
+      <ellipse cx="55" cy="70" rx="16" ry="26" transform="rotate(-30 55 70)"/>
+      <ellipse cx="145" cy="70" rx="16" ry="26" transform="rotate(30 145 70)"/>
+      <ellipse cx="100" cy="40" rx="16" ry="26"/>
+      <ellipse cx="62" cy="140" rx="16" ry="26" transform="rotate(-24 62 140)"/>
+      <ellipse cx="138" cy="140" rx="16" ry="26" transform="rotate(24 138 140)"/>
+    </g>
+    <circle cx="100" cy="100" r="10" fill="#fff8ec"/>
+  </svg>
+  <svg class="flora tr" viewBox="0 0 200 200" fill="none" aria-hidden="true">
+    <g stroke="#f2b134" stroke-width="5" stroke-linecap="round">
+      <path d="M100 100 C 60 60, 40 90, 55 120"/><path d="M100 100 C 140 60, 160 90, 145 120"/>
+      <path d="M100 100 C 100 50, 80 40, 70 60"/><path d="M100 100 C 100 150, 120 160, 130 140"/>
+    </g>
+    <circle cx="100" cy="100" r="16" fill="#f2b134"/>
+    <g fill="#e07856" opacity=".9">
+      <ellipse cx="55" cy="70" rx="16" ry="26" transform="rotate(-30 55 70)"/>
+      <ellipse cx="145" cy="70" rx="16" ry="26" transform="rotate(30 145 70)"/>
+      <ellipse cx="100" cy="40" rx="16" ry="26"/>
+      <ellipse cx="62" cy="140" rx="16" ry="26" transform="rotate(-24 62 140)"/>
+      <ellipse cx="138" cy="140" rx="16" ry="26" transform="rotate(24 138 140)"/>
+    </g>
+    <circle cx="100" cy="100" r="10" fill="#fff8ec"/>
+  </svg>
+  <h1>Shop Our Instagram <span class="bloom">❀</span></h1>
   <p>Everything featured in our posts &amp; reels, in one place.</p>
   <p style="margin-top:8px;"><a href="../">← Back to Today's Deals</a></p>
 </header>
@@ -51,7 +125,7 @@
 <div id="grid"></div>
 <div id="status">Loading…</div>
 
-<footer>Mind Your Wealth · <a href="https://www.instagram.com/mindyourwealthdeals" style="color:inherit;">@mindyourwealthdeals</a></footer>
+<footer><span class="flourish">❀ ❀ ❀</span>Mind Your Wealth · <a href="https://www.instagram.com/mindyourwealthdeals" style="color:inherit;">@mindyourwealthdeals</a></footer>
 
 <script>
 const TAG = "mindyourwealt-20";
