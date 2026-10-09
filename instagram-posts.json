@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00HFQQ0VU",
+    "name": "Waterpik Aquarius Countertop Water Flosser (White)",
+    "price": "$49.99",
+    "was_price": "$99.99",
+    "image": "images/B00HFQQ0VU.jpg",
+    "ig_url": "https://www.instagram.com/p/DeRwswpk2Q5/",
+    "ig_type": "post",
+    "date": "2026-10-09"
+  },
+  {
     "asin": "B07YD3KQ5S",
     "name": "Dawn Platinum Powerwash Dish Spray 4-pack (1 spray + 3 refills, 16oz each, Fresh Scent)",
     "price": "$11.72",
@@ -106,16 +116,6 @@
     "was_price": "$32.00",
     "image": "images/B005M8YX1W.jpg",
     "ig_url": "https://www.instagram.com/p/Dd2MjI3idvY/",
-    "ig_type": "post",
-    "date": "2026-09-28"
-  },
-  {
-    "asin": "B0FCSPWFQG",
-    "name": "Yjslict 7-Piece Stainless Steel Mixing Bowls with Lids (Silver+Black)",
-    "price": "$20.99",
-    "was_price": "$34.99",
-    "image": "images/B0FCSPWFQG.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd2Mfj8CUbl/",
     "ig_type": "post",
     "date": "2026-09-28"
   }
