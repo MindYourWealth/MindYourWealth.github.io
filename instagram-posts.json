@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0BY2GD9VC",
+    "name": "ETENWOLF T300 Digital Tire Pressure Gauge (Vivid Orange)",
+    "price": "$7.99",
+    "was_price": "$14.99",
+    "image": "images/B0BY2GD9VC.jpg",
+    "ig_url": "https://www.instagram.com/p/DeUVkXDDMzH/",
+    "ig_type": "post",
+    "date": "2026-10-10"
+  },
+  {
     "asin": "B00HFQQ0VU",
     "name": "Waterpik Aquarius Countertop Water Flosser (White)",
     "price": "$49.99",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/p/Dd4At_BjgzZ/",
     "ig_type": "post",
     "date": "2026-09-29"
-  },
-  {
-    "asin": "B005M8YX1W",
-    "name": "Umbra Sinkin Dish Drying Rack (in-sink/countertop, black/nickel)",
-    "price": "$20.99",
-    "was_price": "$32.00",
-    "image": "images/B005M8YX1W.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd2MjI3idvY/",
-    "ig_type": "post",
-    "date": "2026-09-28"
   }
 ]
