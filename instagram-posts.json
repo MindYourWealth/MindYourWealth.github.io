@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0GV582CZK",
+    "name": "Bell+Howell TRIBURST 3-Panel Screw-In LED Garage Lights (4000LM)",
+    "price": "$17.08",
+    "was_price": "$34.95",
+    "image": "images/B0GV582CZK.jpg",
+    "ig_url": "https://www.instagram.com/p/DeW6WuwDMoh/",
+    "ig_type": "post",
+    "date": "2026-10-11"
+  },
+  {
     "asin": "B0BY2GD9VC",
     "name": "ETENWOLF T300 Digital Tire Pressure Gauge (Vivid Orange)",
     "price": "$7.99",
@@ -71,7 +81,7 @@
   },
   {
     "asin": "B0GG11K25W",
-    "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Booster Bundle (6 booster packs)",
+    "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle (6 booster packs)",
     "price": "$44.99",
     "was_price": "$59.99",
     "image": "images/B0GG11K25W.jpg",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/p/Dd9IaF9DjCq/",
     "ig_type": "post",
     "date": "2026-10-01"
-  },
-  {
-    "asin": "B0CNVBS5JN",
-    "name": "Amazon Kindle Kids 16GB (Ocean Explorer)",
-    "price": "$122.99",
-    "was_price": "$179.99",
-    "image": "images/B0CNVBS5JN.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd4At_BjgzZ/",
-    "ig_type": "post",
-    "date": "2026-09-29"
   }
 ]
