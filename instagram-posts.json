@@ -1,5 +1,32 @@
 [
   {
+    "asin": "B000FZX944",
+    "name": "Stanley Classic Legendary Vacuum Insulated Food Jar",
+    "price": "See price on Amazon",
+    "image": "images/B000FZX944.jpg",
+    "ig_url": "https://www.instagram.com/reel/DeZ5s8-jArL/",
+    "ig_type": "reel",
+    "date": "2026-10-12"
+  },
+  {
+    "asin": "B00SAYCXWG",
+    "name": "HyperX Cloud II Gaming Headset - 7.1 Surround Sound (Black/Red)",
+    "price": "See price on Amazon",
+    "image": "images/B00SAYCXWG.jpg",
+    "ig_url": "https://www.instagram.com/reel/DeZ5xwBDC6h/",
+    "ig_type": "reel",
+    "date": "2026-10-12"
+  },
+  {
+    "asin": "B0CTN1GYKN",
+    "name": "Mars Halloween Candy Assortment - 110 Mini Bars (Snickers, Twix, Milky Way, 3 Musketeers)",
+    "price": "See price on Amazon",
+    "image": "images/B0CTN1GYKN.jpg",
+    "ig_url": "https://www.instagram.com/reel/DeZ51YZjCR3/",
+    "ig_type": "reel",
+    "date": "2026-10-12"
+  },
+  {
     "asin": "B00005LM0T",
     "name": "Bodum Chambord 51oz French Press Coffee Maker (Chrome/Polished Stainless)",
     "price": "$38.50",
@@ -88,35 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeE4s8IE7x3/",
     "ig_type": "post",
     "date": "2026-10-04"
-  },
-  {
-    "asin": "B0GG11K25W",
-    "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Booster Bundle (6 booster packs)",
-    "price": "$44.99",
-    "was_price": "$59.99",
-    "image": "images/B0GG11K25W.jpg",
-    "ig_url": "https://www.instagram.com/p/DeCT22NDyTb/",
-    "ig_type": "post",
-    "date": "2026-10-03"
-  },
-  {
-    "asin": "B0FMBLT5RL",
-    "name": "Belkin UltraCharge 25W 3-in-1 Foldable Wireless Charging Station (MagSafe, iPhone+Watch+AirPods)",
-    "price": "$75.00",
-    "was_price": "$100.00",
-    "image": "images/B0FMBLT5RL.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd_vFHDDpaV/",
-    "ig_type": "post",
-    "date": "2026-10-02"
-  },
-  {
-    "asin": "B0D3W6XGLR",
-    "name": "DASH Rapid Egg Cooker 7-egg Black (DEC007BK)",
-    "price": "$16.99",
-    "was_price": "$19.99",
-    "image": "images/B0D3W6XGLR.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd9KT6vDvGx/",
-    "ig_type": "post",
-    "date": "2026-10-01"
   }
 ]
