@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00005LM0T",
+    "name": "Bodum Chambord 51oz French Press Coffee Maker (Chrome/Polished Stainless)",
+    "price": "$38.50",
+    "was_price": "$66.00",
+    "image": "images/B00005LM0T.jpg",
+    "ig_url": "https://www.instagram.com/p/DeZfDsBE_Y1/",
+    "ig_type": "post",
+    "date": "2026-10-12"
+  },
+  {
     "asin": "B0GV582CZK",
     "name": "Bell+Howell TRIBURST 3-Panel Screw-In LED Garage Lights (4000LM)",
     "price": "$17.08",
@@ -81,7 +91,7 @@
   },
   {
     "asin": "B0GG11K25W",
-    "name": "Pokémon TCG: Mega Evolution—Perfect Order Booster Bundle (6 booster packs)",
+    "name": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Booster Bundle (6 booster packs)",
     "price": "$44.99",
     "was_price": "$59.99",
     "image": "images/B0GG11K25W.jpg",
@@ -106,16 +116,6 @@
     "was_price": "$19.99",
     "image": "images/B0D3W6XGLR.jpg",
     "ig_url": "https://www.instagram.com/p/Dd9KT6vDvGx/",
-    "ig_type": "post",
-    "date": "2026-10-01"
-  },
-  {
-    "asin": "B0DGJKT2X9",
-    "name": "Apple AirPods Max Wireless Over-Ear Headphones (USB-C, Starlight)",
-    "price": "$429",
-    "was_price": "$549",
-    "image": "images/B0DGJKT2X9.jpg",
-    "ig_url": "https://www.instagram.com/p/Dd9IaF9DjCq/",
     "ig_type": "post",
     "date": "2026-10-01"
   }
