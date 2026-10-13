@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0B1JH2MGB",
+    "name": "Lenox Blue Bay Colors 4Pc Accent Plates (Blue)",
+    "price": "$16.27",
+    "was_price": "$59.95",
+    "image": "images/B0B1JH2MGB.jpg",
+    "ig_url": "https://www.instagram.com/reel/DecEG2rDsDS/",
+    "ig_type": "reel",
+    "date": "2026-10-13"
+  },
+  {
     "asin": "B000FZX944",
     "name": "Stanley Classic Legendary Vacuum Insulated Food Jar",
     "price": "See price on Amazon",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeHeFuOiWOH/",
     "ig_type": "post",
     "date": "2026-10-05"
-  },
-  {
-    "asin": "B07CMS5Q6P",
-    "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse (Black)",
-    "price": "$29.99",
-    "was_price": "$49.99",
-    "image": "images/B07CMS5Q6P.jpg",
-    "ig_url": "https://www.instagram.com/p/DeE4s8IE7x3/",
-    "ig_type": "post",
-    "date": "2026-10-04"
   }
 ]
