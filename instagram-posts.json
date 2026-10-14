@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0BTYDLTM3",
+    "name": "Soundcore by Anker P20i True Wireless Earbuds (Blue)",
+    "price": "$22.99",
+    "was_price": "$39.99",
+    "image": "images/B0BTYDLTM3.jpg",
+    "ig_url": "https://www.instagram.com/reel/DeepZpPD0ue/",
+    "ig_type": "reel",
+    "date": "2026-10-14"
+  },
+  {
     "asin": "B0B1JH2MGB",
     "name": "Lenox Blue Bay Colors 4Pc Accent Plates (Blue)",
     "price": "$16.27",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeKCfY-jwYk/",
     "ig_type": "post",
     "date": "2026-10-06"
-  },
-  {
-    "asin": "B0H46YLSZ1",
-    "name": "Philips Sonicare 4200 Rechargeable Electric Toothbrush (White)",
-    "price": "$39.96",
-    "was_price": "$74.99",
-    "image": "images/B0H46YLSZ1.jpg",
-    "ig_url": "https://www.instagram.com/p/DeHeFuOiWOH/",
-    "ig_type": "post",
-    "date": "2026-10-05"
   }
 ]
