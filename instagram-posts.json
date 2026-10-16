@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0FLSG6PTX",
+    "name": "Kool-Aid Shave Ice and Snow Cone Machine (Nostalgia, Sharkleberry/red-white)",
+    "price": "$16.48",
+    "was_price": "$31.44",
+    "image": "images/B0FLSG6PTX.jpg",
+    "ig_url": "https://www.instagram.com/reel/DejyXtgj8aQ/",
+    "ig_type": "reel",
+    "date": "2026-10-16"
+  },
+  {
     "asin": "B0FDH36SY7",
     "name": "Barbie Rise & Surprise Doll & Accessories, Pet Birthday Series (12 surprises, slide + color-change)",
     "price": "$12.99",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DePL7v9Dwu5/",
     "ig_type": "post",
     "date": "2026-10-08"
-  },
-  {
-    "asin": "B09WJHL6JM",
-    "name": "Columbia Steens Mountain 2.0 Full Zip Fleece Jacket (Mens)",
-    "price": "$29",
-    "was_price": "$65",
-    "image": "images/B09WJHL6JM.jpg",
-    "ig_url": "https://www.instagram.com/p/DeMnDktDwZs/",
-    "ig_type": "post",
-    "date": "2026-10-07"
   }
 ]
