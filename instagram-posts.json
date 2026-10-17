@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0CZ7K936R",
+    "name": "Owala FreeSip Twist Insulated Stainless Steel Water Bottle 24oz (Dreamy Field, Pink/Purple)",
+    "price": "$19.99",
+    "was_price": "$29.99",
+    "image": "images/B0CZ7K936R.jpg",
+    "ig_url": "https://www.instagram.com/reel/DemXZxRj44k/",
+    "ig_type": "reel",
+    "date": "2026-10-17"
+  },
+  {
     "asin": "B0FLSG6PTX",
     "name": "Kool-Aid Shave Ice and Snow Cone Machine (Nostalgia, Sharkleberry/red-white)",
     "price": "$16.48",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeRwswpk2Q5/",
     "ig_type": "post",
     "date": "2026-10-09"
-  },
-  {
-    "asin": "B07YD3KQ5S",
-    "name": "Dawn Platinum Powerwash Dish Spray 4-pack (1 spray + 3 refills, 16oz each, Fresh Scent)",
-    "price": "$11.72",
-    "was_price": "$17.50",
-    "image": "images/B07YD3KQ5S.jpg",
-    "ig_url": "https://www.instagram.com/p/DePL7v9Dwu5/",
-    "ig_type": "post",
-    "date": "2026-10-08"
   }
 ]
