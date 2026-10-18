@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B085263PF3",
+    "name": "Fiskars Floral Bypass Pruning Shears (Floral Pruner, non-stick)",
+    "price": "$8.50",
+    "was_price": "$14.99",
+    "image": "images/B085263PF3.jpg",
+    "ig_url": "https://www.instagram.com/reel/Deo8F8ej2dq/",
+    "ig_type": "reel",
+    "date": "2026-10-18"
+  },
+  {
     "asin": "B0CZ7K936R",
     "name": "Owala FreeSip Twist Insulated Stainless Steel Water Bottle 24oz (Dreamy Field, Pink/Purple)",
     "price": "$19.99",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeUVkXDDMzH/",
     "ig_type": "post",
     "date": "2026-10-10"
-  },
-  {
-    "asin": "B00HFQQ0VU",
-    "name": "Waterpik Aquarius Countertop Water Flosser (White)",
-    "price": "$49.99",
-    "was_price": "$99.99",
-    "image": "images/B00HFQQ0VU.jpg",
-    "ig_url": "https://www.instagram.com/p/DeRwswpk2Q5/",
-    "ig_type": "post",
-    "date": "2026-10-09"
   }
 ]
