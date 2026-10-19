@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B09Z6FF1HR",
+    "name": "Bedsure Long Sherpa Wearable Blanket Hoodie (Standard)",
+    "price": "$17.99",
+    "was_price": "$50.99",
+    "image": "images/B09Z6FF1HR.jpg",
+    "ig_url": "https://www.instagram.com/reel/DeritHPDzqk/",
+    "ig_type": "reel",
+    "date": "2026-10-19"
+  },
+  {
     "asin": "B085263PF3",
     "name": "Fiskars Floral Bypass Pruning Shears (Floral Pruner, non-stick)",
     "price": "$8.50",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeW6WuwDMoh/",
     "ig_type": "post",
     "date": "2026-10-11"
-  },
-  {
-    "asin": "B0BY2GD9VC",
-    "name": "ETENWOLF T300 Digital Tire Pressure Gauge (Vivid Orange)",
-    "price": "$7.99",
-    "was_price": "$14.99",
-    "image": "images/B0BY2GD9VC.jpg",
-    "ig_url": "https://www.instagram.com/p/DeUVkXDDMzH/",
-    "ig_type": "post",
-    "date": "2026-10-10"
   }
 ]
