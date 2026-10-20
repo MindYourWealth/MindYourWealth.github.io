@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B07PJNXSGH",
+    "name": "Perler Harry Potter 4503-Piece Fuse Bead Kit",
+    "price": "$8.00",
+    "was_price": "$22.96",
+    "image": "images/B07PJNXSGH.jpg",
+    "ig_url": "https://www.instagram.com/p/DeuGAGWj80-/",
+    "ig_type": "post",
+    "date": "2026-10-20"
+  },
+  {
     "asin": "B09Z6FF1HR",
     "name": "Bedsure Long Sherpa Wearable Blanket Hoodie (Standard)",
     "price": "$17.99",
@@ -105,15 +115,5 @@
     "ig_url": "https://www.instagram.com/p/DeZfDsBE_Y1/",
     "ig_type": "post",
     "date": "2026-10-12"
-  },
-  {
-    "asin": "B0GV582CZK",
-    "name": "Bell+Howell TRIBURST 3-Panel Screw-In LED Garage Lights (4000LM)",
-    "price": "$17.08",
-    "was_price": "$34.95",
-    "image": "images/B0GV582CZK.jpg",
-    "ig_url": "https://www.instagram.com/p/DeW6WuwDMoh/",
-    "ig_type": "post",
-    "date": "2026-10-11"
   }
 ]
