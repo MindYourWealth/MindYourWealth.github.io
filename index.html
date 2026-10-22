@@ -289,7 +289,7 @@
     var img = p.image
       ? '<img src="./'+esc(p.image)+'" alt="'+esc(p.name||"deal")+'" loading="lazy" onerror="this.outerHTML=\'<div class=noimg>Photo coming soon</div>\'">'
       : '<div class="noimg">Photo coming soon</div>';
-    var url = p.url || ("https://www.amazon.com/dp/"+encodeURIComponent(p.asin));
+    var url = p.url || ("https://www.amazon.com/dp/"+encodeURIComponent(p.asin)+"?tag=mindyourwealt-20");
     return '<article class="card" id="'+esc(p.asin)+'">'
       + img
       + '<div class="body"><h3>'+esc(p.name||"Amazon find")+'</h3>'
