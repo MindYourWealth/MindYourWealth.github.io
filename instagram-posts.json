@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0785RNKZS",
+    "name": "Pringles Snack Stacks Variety Pack, 27 Cups",
+    "price": "$10.48",
+    "was_price": "$13.98",
+    "image": "images/B0785RNKZS.jpg",
+    "ig_url": "https://www.instagram.com/reel/De10pvnDqmb/",
+    "ig_type": "reel",
+    "date": "2026-10-23"
+  },
+  {
     "asin": "B0DFBCKJHM",
     "name": "Kinder Bueno Bar, Halloween Candy, Snack Size, 6.8 oz",
     "price": "$4.97",
@@ -105,15 +115,6 @@
     "price": "See price on Amazon",
     "image": "images/B000FZX944.jpg",
     "ig_url": "https://www.instagram.com/reel/DeZ5s8-jArL/",
-    "ig_type": "reel",
-    "date": "2026-10-12"
-  },
-  {
-    "asin": "B00SAYCXWG",
-    "name": "HyperX Cloud II Gaming Headset - 7.1 Surround Sound (Black/Red)",
-    "price": "See price on Amazon",
-    "image": "images/B00SAYCXWG.jpg",
-    "ig_url": "https://www.instagram.com/reel/DeZ5xwBDC6h/",
     "ig_type": "reel",
     "date": "2026-10-12"
   }
