@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0014E82II",
+    "name": "Finish Jet-Dry Rinse Aid, 8.45 oz",
+    "price": "$2.75",
+    "was_price": "$4.94",
+    "image": "images/B0014E82II.jpg",
+    "ig_url": "https://www.instagram.com/reel/De4Y3Osj2KT/",
+    "ig_type": "reel",
+    "date": "2026-10-24"
+  },
+  {
     "asin": "B0785RNKZS",
     "name": "Pringles Snack Stacks Variety Pack, 27 Cups",
     "price": "$10.48",
@@ -108,14 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DecEG2rDsDS/",
     "ig_type": "reel",
     "date": "2026-10-13"
-  },
-  {
-    "asin": "B000FZX944",
-    "name": "Stanley Classic Legendary Vacuum Insulated Food Jar",
-    "price": "See price on Amazon",
-    "image": "images/B000FZX944.jpg",
-    "ig_url": "https://www.instagram.com/reel/DeZ5s8-jArL/",
-    "ig_type": "reel",
-    "date": "2026-10-12"
   }
 ]
