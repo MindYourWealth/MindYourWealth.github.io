@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0D821QQDY",
+    "name": "Charmin Ultra Strong Toilet Paper, 12 Mega XL Rolls, 330 Sheets Per Roll",
+    "price": "$15.99",
+    "was_price": "$19.99",
+    "image": "images/B0D821QQDY.jpg",
+    "ig_url": "https://www.instagram.com/reel/De69scrDjMO/",
+    "ig_type": "reel",
+    "date": "2026-10-25"
+  },
+  {
     "asin": "B0014E82II",
     "name": "Finish Jet-Dry Rinse Aid, 8.45 oz",
     "price": "$2.75",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DeepZpPD0ue/",
     "ig_type": "reel",
     "date": "2026-10-14"
-  },
-  {
-    "asin": "B0B1JH2MGB",
-    "name": "Lenox Blue Bay Colors 4Pc Accent Plates (Blue)",
-    "price": "$16.27",
-    "was_price": "$59.95",
-    "image": "images/B0B1JH2MGB.jpg",
-    "ig_url": "https://www.instagram.com/reel/DecEG2rDsDS/",
-    "ig_type": "reel",
-    "date": "2026-10-13"
   }
 ]
