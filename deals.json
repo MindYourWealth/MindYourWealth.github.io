@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "repo": "https://raw.githubusercontent.com/MindYourWealth/MindYourWealth.github.io/main",
   "products": [
     {
@@ -15731,6 +15731,32 @@
       "pin_url": null,
       "date_added": "2026-10-23",
       "url": "https://www.amazon.com/dp/B0014E82II?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0F4DRRDXN",
+      "name": "Welch's Fruit Snacks Fusions 50ct",
+      "price": "$11.40",
+      "list_price": "$17.94",
+      "code": null,
+      "deal_note": null,
+      "image": "images/B0F4DRRDXN.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-24",
+      "url": "https://www.amazon.com/dp/B0F4DRRDXN?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B074N8ZYLX",
+      "name": "B07QMQ8H5Q B0CVMYKYZQ | 2026-10-24 17:54 run \u2014 Ruffles/Air Wick/Cliganic thread NEVER POSTED: posting task + first verif",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B074N8ZYLX.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-24",
+      "url": "https://www.amazon.com/dp/B074N8ZYLX?tag=mindyourwealt-20"
     }
   ]
 }
