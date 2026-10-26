@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0CTSYP8NK",
+    "name": "Chex Mix Traditional, Original Recipe, Family Size",
+    "price": "$2.77",
+    "was_price": "$3.46",
+    "image": "images/B0CTSYP8NK.jpg",
+    "ig_url": "https://www.instagram.com/reel/De9idVpDxlV/",
+    "ig_type": "reel",
+    "date": "2026-10-26"
+  },
+  {
     "asin": "B0D821QQDY",
     "name": "Charmin Ultra Strong Toilet Paper, 12 Mega XL Rolls, 330 Sheets Per Roll",
     "price": "$15.99",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DehNzalD5O-/",
     "ig_type": "reel",
     "date": "2026-10-15"
-  },
-  {
-    "asin": "B0BTYDLTM3",
-    "name": "Soundcore by Anker P20i True Wireless Earbuds (Blue)",
-    "price": "$22.99",
-    "was_price": "$39.99",
-    "image": "images/B0BTYDLTM3.jpg",
-    "ig_url": "https://www.instagram.com/reel/DeepZpPD0ue/",
-    "ig_type": "reel",
-    "date": "2026-10-14"
   }
 ]
