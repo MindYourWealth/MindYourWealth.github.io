@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "repo": "https://raw.githubusercontent.com/MindYourWealth/MindYourWealth.github.io/main",
   "products": [
     {
@@ -15757,6 +15757,97 @@
       "pin_url": null,
       "date_added": "2026-10-24",
       "url": "https://www.amazon.com/dp/B074N8ZYLX?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0CVMYKYZQ",
+      "name": "Cliganic Organic Lip Balm Set, 8-Pack (Fresh Picked)",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B0CVMYKYZQ.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-25",
+      "url": "https://www.amazon.com/dp/B0CVMYKYZQ?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B005IGQPU0",
+      "name": "Zicam RapidMelts 18ct Orange Cream",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": "coupon",
+      "image": "images/B005IGQPU0.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-25",
+      "url": "https://www.amazon.com/dp/B005IGQPU0?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B08XXGB5NK",
+      "name": "Dr Pepper Zero Sugar Soda, 12 oz cans, 12-pack",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B08XXGB5NK.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-25",
+      "url": "https://www.amazon.com/dp/B08XXGB5NK?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0CTSYP8NK",
+      "name": "Chex Mix Traditional, Original Recipe, Family Size",
+      "price": "$3.46",
+      "list_price": null,
+      "code": null,
+      "deal_note": "15% coupon",
+      "image": "images/B0CTSYP8NK.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B0CTSYP8NK?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B00DUAXWES",
+      "name": "Nature Valley Crunchy Granola Bars, Variety Pack, 12 ct",
+      "price": "$3.82",
+      "list_price": null,
+      "code": null,
+      "deal_note": "15% coupon",
+      "image": "images/B00DUAXWES.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B00DUAXWES?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B07DQ5B2MP",
+      "name": "Miss Vickie's Kettle Cooked Potato Chips, Jalapeno, 1.375 oz (Pack of 28)",
+      "price": "$24.49",
+      "list_price": null,
+      "code": null,
+      "deal_note": "10% coupon",
+      "image": "images/B07DQ5B2MP.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B07DQ5B2MP?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B00F3SQJUY",
+      "name": "B0017L4PH0 B00Z9YV15A",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": null,
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "unknown",
+      "url": "https://www.amazon.com/dp/B00F3SQJUY?tag=mindyourwealt-20"
     }
   ]
 }
