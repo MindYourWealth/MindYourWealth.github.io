@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "repo": "https://raw.githubusercontent.com/MindYourWealth/MindYourWealth.github.io/main",
   "products": [
     {
@@ -15848,6 +15848,71 @@
       "pin_url": null,
       "date_added": "unknown",
       "url": "https://www.amazon.com/dp/B00F3SQJUY?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0D1SDCXDL",
+      "name": "YumEarth Organic Halloween Candy 60ct Pops",
+      "price": "$8.46",
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B0D1SDCXDL.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B0D1SDCXDL?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0BGQTZB4T",
+      "name": "Method All-Purpose Cleaner Spray, French Lavender, 2-pack",
+      "price": "$5.30",
+      "list_price": "$10.98",
+      "code": null,
+      "deal_note": null,
+      "image": "images/B0BGQTZB4T.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B0BGQTZB4T?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B0BPRTCJTN",
+      "name": "Honey Maid Graham Crackers 3-pack",
+      "price": "$14.04",
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B0BPRTCJTN.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B0BPRTCJTN?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B07VH667FV",
+      "name": "Arm & Hammer Laundry Paks 42ct",
+      "price": "$8.81",
+      "list_price": null,
+      "code": null,
+      "deal_note": "10% coupon",
+      "image": "images/B07VH667FV.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-26",
+      "url": "https://www.amazon.com/dp/B07VH667FV?tag=mindyourwealt-20"
+    },
+    {
+      "asin": "B001ET7IQK",
+      "name": "Dove Beauty Bar Soap Sensitive, 8 Bars, 3.75 oz",
+      "price": null,
+      "list_price": null,
+      "code": null,
+      "deal_note": null,
+      "image": "images/B001ET7IQK.jpg",
+      "pinned": false,
+      "pin_url": null,
+      "date_added": "2026-10-27",
+      "url": "https://www.amazon.com/dp/B001ET7IQK?tag=mindyourwealt-20"
     }
   ]
 }
