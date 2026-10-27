@@ -45,6 +45,27 @@
   table.compare th { background:#f3ede2; }
   .faq h3 { font-size:1.02rem; }
   footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
+
+  /* ---------- mobile readability ---------- */
+  html { -webkit-text-size-adjust:100%; }
+  body { font-size:16px; }
+  img { max-width:100%; }
+  .cta { padding:11px 18px; }
+  nav.top a { display:inline-block; padding:8px 4px; }
+  details.more { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:2px 16px; margin:0 0 16px; }
+  details.more summary { cursor:pointer; font-weight:700; font-size:1.02rem; color:var(--accent-dark); padding:13px 0; }
+  details.more summary:hover { color:var(--accent); }
+  details.more[open] summary { margin-bottom:4px; }
+  @media (max-width:640px) {
+    header { padding:22px 16px 18px; }
+    header h1 { font-size:1.4rem; }
+    .wrap { padding:20px 16px 32px; }
+    .card { flex-direction:column; }
+    .card img { width:100%; height:190px; }
+    .cta { align-self:stretch; text-align:center; }
+    table.compare { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    article.prose h2 { font-size:1.18rem; margin:24px 0 8px; }
+  }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -246,13 +267,14 @@
   </div>
 </div>
 
-<h2>Where to spend, where to save</h2>
+<details class="more"><summary>Buying tips</summary>
 <p><strong>Spend on the candy.</strong> It's the whole point of the night, it's the one thing you can't fake, and running out at 7 p.m. is the only Halloween failure kids actually remember. A big brand-name assortment also solves the quality problem — you know exactly what you're handing out, and whatever survives the night is candy your own household will happily finish.</p>
 <p><strong>Spend on one anchor decoration.</strong> A single strong piece — the projector washing the house in ghosts, the inflatable on the lawn — reads as "the Halloween house" from the street. Three forgettable decorations don't add up to the same effect, and they triple your storage problem in November.</p>
 <p><strong>Save on everything with a one-night job.</strong> Glow sticks, treat bags, and tableware are consumables; buy the proven cheap versions and don't upgrade them. The same logic applies to party extras for a single evening — borrow, improvise, or buy the format that's already a bestseller instead of paying a premium for novelty packaging.</p>
 <p><strong>Save all year by buying storage-friendly.</strong> Flat pillow covers beat bulky decor, a boxed carving kit beats loose tools in a junk drawer, and anything inflatable should deflate to a shoebox. The households that spend the least on Halloween aren't buying less — they're re-buying almost nothing.</p>
 
-<h2>Quick answers</h2>
+</details>
+<details class="more"><summary>Common questions</summary>
 <div class="faq">
 <h3>What is the single best buy on this list?</h3>
 <p>The Mars 110-count assortment (pick #1). It is the one purchase that covers the main event — trick-or-treat itself — and it is the pick our own readers have clicked most this month.</p>
@@ -265,6 +287,7 @@
 <h3>What should I store, and what should I toss?</h3>
 <p>Store anything with a motor, a blade, or fabric: the projector, the carving kit, the inflatable, the pillow covers. Toss or donate what's left of the consumables — glow sticks fade, treat bags tear, and partial decor looks tired by year two. Writing a one-line note in the storage box ("porch: projector + covers; candy: buy 2 bags") takes thirty seconds and saves next October's version of you a full guessing game.</p>
 </div>
+</details>
 <p><strong>The bottom line:</strong> a great Halloween doesn't need a bigger budget — it needs the candy bought once, the decor bought early and stored well, and the anchor pieces chosen for next year as much as this one. Everything above was picked to make this October cheaper and every October after it cheaper still.</p>
 </article>
 </div>

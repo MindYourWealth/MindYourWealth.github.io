@@ -45,6 +45,27 @@
   table.compare th { background:#f3ede2; }
   .faq h3 { font-size:1.02rem; }
   footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
+
+  /* ---------- mobile readability ---------- */
+  html { -webkit-text-size-adjust:100%; }
+  body { font-size:16px; }
+  img { max-width:100%; }
+  .cta { padding:11px 18px; }
+  nav.top a { display:inline-block; padding:8px 4px; }
+  details.more { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:2px 16px; margin:0 0 16px; }
+  details.more summary { cursor:pointer; font-weight:700; font-size:1.02rem; color:var(--accent-dark); padding:13px 0; }
+  details.more summary:hover { color:var(--accent); }
+  details.more[open] summary { margin-bottom:4px; }
+  @media (max-width:640px) {
+    header { padding:22px 16px 18px; }
+    header h1 { font-size:1.4rem; }
+    .wrap { padding:20px 16px 32px; }
+    .card { flex-direction:column; }
+    .card img { width:100%; height:190px; }
+    .cta { align-self:stretch; text-align:center; }
+    table.compare { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    article.prose h2 { font-size:1.18rem; margin:24px 0 8px; }
+  }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -140,7 +161,8 @@
 <li><strong>Weekly-use potential.</strong> A gadget has to earn its drawer space.</li>
 </ul>
 <p>We did not accept payment for placement, and we re-check prices before the holiday season each year.</p>
-<p>One more thing about how this list was built: it started much longer. The first draft had more than thirty gadgets on it, and the cutting was the point. Anything that duplicated a tool most kitchens already own went first. Anything that only shines for one recipe a year went next. What survived is deliberately a little boring — choppers, scales, strainers, thermometers — because boring is what gets used on a Tuesday night in February. If you're buying for a specific cook, read the "best for" line on each pick before the description; it's the fastest way to match the gadget to the person. Buying for yourself instead? The same rule applies in reverse: the right pick is the one that fixes the annoyance you hit most often, not the one with the cleverest demo video.</p>
+<p>One more thing: this list started with thirty-plus gadgets, and the cutting was the point. Duplicates of tools most kitchens already own went first; one-recipe-a-year novelties went next. What survived is deliberately boring — choppers, scales, strainers, thermometers — because boring gets used on a Tuesday night in February.</p>
+<p>Buying for a specific cook? Read the "best for" line on each pick first — it's the fastest way to match gadget to person.</p>
 
 <div class="card">
   <img src="../images/B0DYRHK92P.jpg" alt="DASH Rapid Egg Cooker" loading="lazy">
@@ -267,7 +289,7 @@
 <tr><td>Clip-On Strainer</td><td>Pasta nights</td><td>Ditch the bulky colander</td></tr>
 </table>
 
-<h2>Frequently asked questions</h2>
+<details class="more"><summary>Common questions</summary>
 <div class="faq">
 <h3>What is the best kitchen gadget under $25 to give as a gift?</h3>
 <p>For a safe crowd-pleaser, the DASH Rapid Egg Cooker and the Mueller Vegetable Chopper are the two most-gifted items on this list. They're from recognizable brands, solve obvious problems, and work for beginners and experienced cooks alike. Buying for a specific person? Match the gadget to their habit — the thermometer for the griller, the roll-up rack for the small-kitchen cook.</p>
@@ -282,13 +304,15 @@
 <h3>How long do budget kitchen gadgets last?</h3>
 <p>Simple tools (splatter screens, measuring spoons, strainers) last for years. Anything with blades or electronics lasts longer when you buy the established brand version rather than the cheapest listing — which is why this guide favors recognizable brands over rock-bottom prices.</p>
 </div>
+</details>
 
-<h2>How to buy kitchen gadgets that don't end up in a drawer</h2>
+<details class="more"><summary>Buying tips</summary>
 <p><strong>Count the steps, not the features.</strong> A gadget earns its place when it removes steps from something you already do. If using it requires its own setup and cleanup ritual — assembling parts, hand-washing blades, hunting for counter space — it has to save more time than it costs, every single use, or it will quietly retire to the back of a cabinet within a month.</p>
 <p><strong>Prefer the tool with no moving parts.</strong> The longest-lived items on this list are the simplest ones: a screen, a strainer, a set of spoons. Electronics and multi-blade systems can absolutely be worth it — the chopper and the egg cooker above prove that — but every motor and hinge is a future failure point, which is why the brand matters more on those picks than on the simple tools.</p>
 <p><strong>Check the storage math before the price.</strong> A gadget that stores flat, or nests inside something you already own, costs you nothing between uses. A bulky one charges rent forever. In a small kitchen, the roll-up rack and the clip-on strainer aren't just cheaper than their full-size equivalents — they're the only versions that make sense.</p>
 <p><strong>Buy the size you cook, not the size you host.</strong> Most people shop for the twice-a-year dinner party and then cook for one to four people the other 350 days. Gadgets sized for everyday cooking get used daily; oversized "entertaining" versions mostly get stored. When in doubt, choose the smaller footprint and the simpler job, done well.</p>
 
+</details>
 <h2>The bottom line</h2>
 <p>The best kitchen gift under $25 isn't the cleverest gadget — it's the one that gets used. Pick the item on this list that matches something the recipient already does every week, and you'll give the rare gift that earns its drawer space.</p>
 <p><em>Prices on Amazon change frequently. We re-check this guide before each holiday season, but always confirm the current price on the product page before you buy. As an Amazon Associate, we earn from qualifying purchases made through the links above.</em></p>

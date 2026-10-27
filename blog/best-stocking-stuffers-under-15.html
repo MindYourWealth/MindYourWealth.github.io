@@ -45,6 +45,27 @@
   table.compare th { background:#f3ede2; }
   .faq h3 { font-size:1.02rem; }
   footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
+
+  /* ---------- mobile readability ---------- */
+  html { -webkit-text-size-adjust:100%; }
+  body { font-size:16px; }
+  img { max-width:100%; }
+  .cta { padding:11px 18px; }
+  nav.top a { display:inline-block; padding:8px 4px; }
+  details.more { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:2px 16px; margin:0 0 16px; }
+  details.more summary { cursor:pointer; font-weight:700; font-size:1.02rem; color:var(--accent-dark); padding:13px 0; }
+  details.more summary:hover { color:var(--accent); }
+  details.more[open] summary { margin-bottom:4px; }
+  @media (max-width:640px) {
+    header { padding:22px 16px 18px; }
+    header h1 { font-size:1.4rem; }
+    .wrap { padding:20px 16px 32px; }
+    .card { flex-direction:column; }
+    .card img { width:100%; height:190px; }
+    .cta { align-self:stretch; text-align:center; }
+    table.compare { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    article.prose h2 { font-size:1.18rem; margin:24px 0 8px; }
+  }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -267,7 +288,7 @@
 <tr><td>Anker 310 cable 2-pack</td><td>Teens &amp; students</td><td>The spare everyone needs</td></tr>
 </table>
 
-<h2>Frequently asked questions</h2>
+<details class="more"><summary>Common questions</summary>
 <div class="faq">
 <h3>What is the best stocking stuffer under $15?</h3>
 <p>Start with the anchor: the HotHands 10-pair value pack (#1 in its category) for the universal slot, or the Play-Doh 10-pack for kids. Both are proven bestsellers that read as real gifts, not filler. Round out the stocking with O'Keeffe's Working Hands for the winter problem-solver slot.</p>
@@ -282,11 +303,13 @@
 <h3>What about a bigger gift to go with the stocking?</h3>
 <p>Pair the stocking with one real gift from our guides: the <a href="./best-gifts-under-25-for-men.html">best gifts under $25 for men</a> or <a href="./best-gifts-under-25-for-women.html">best gifts under $25 for women</a>. A well-stocked stocking plus one $25 hero gift beats a pile of filler every time.</p>
 </div>
+</details>
 
-<h2>How we'd build a stocking from this list</h2>
+<details class="more"><summary>Buying tips</summary>
 <p>The mistake most people make is buying ten stockings' worth of one person's list. Instead, treat these ten picks as a menu and build each stocking in three layers. <strong>Layer one is the warm one:</strong> something seasonal and immediately useful the morning it's opened — hand warmers heading out the door, a proper lip balm for January weather. <strong>Layer two is the daily one:</strong> the small upgrade they'll touch every day for months, like the hand cream that lives by the sink or the spare cable that ends the household charging wars. <strong>Layer three is the fun one:</strong> a cube, a game, something from Play-Doh's world — the pick with no practical justification at all.</p>
 <p>Three to five items per stocking, one from each layer plus a wildcard, beats ten random cheap things every time — in cost, in how the stocking looks hanging there, and in how much of it is still in use by spring. If you're stocking for a whole family, buy the consumables in multiples and rotate the fun layer per person; it keeps every stocking feeling personal while the shared picks keep the total budget sane.</p>
 
+</details>
 <h2>The bottom line</h2>
 <p>The best stocking stuffer under $15 isn't the cleverest one — it's the one that's gone by New Year's. Ten warm mornings, a fixed pair of hands, a cable that saves a dead phone, a deck of cards on Christmas night. Build around the anchor (HotHands for adults, Play-Doh for kids), add one practical and one fun, and every stocking fills itself.</p>
 <p><em>Prices on Amazon change frequently. We re-check this guide before each holiday season, but always confirm the current price on the product page before you buy. As an Amazon Associate, we earn from qualifying purchases made through the links above.</em></p>

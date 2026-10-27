@@ -122,6 +122,25 @@
   @keyframes spin { to { transform:rotate(360deg); } }
   footer { max-width:960px; margin:0 auto 44px; padding:26px 20px 0; font-size:.78rem; color:var(--muted); text-align:center; border-top:1px solid var(--line); }
   footer .flourish { display:block; font-size:1.4rem; letter-spacing:12px; color:var(--terra); opacity:.7; margin-bottom:10px; }
+  /* ---------- mobile readability ---------- */
+  html { -webkit-text-size-adjust:100%; }
+  body { font-size:16px; line-height:1.6; }
+  img { max-width:100%; }
+  @media (max-width:640px) {
+    header { padding:30px 16px 26px; }
+    header h1 { font-size:1.85rem; }
+    header p a { display:inline-block; padding:6px 4px; }
+    #prime-banner, .disclosure, #status, footer { padding-left:16px; padding-right:16px; }
+    .about-deals, #chips, #guides { padding-left:16px; padding-right:16px; }
+    .about-deals h2 { font-size:1.25rem; }
+    #chips button { padding:11px 16px; }
+    #guides a { padding:9px 14px; }
+    #grid { grid-template-columns:repeat(2,1fr); gap:12px; padding:0 12px; margin-bottom:32px; }
+    .card img { height:140px; padding:8px; }
+    .card .body { padding:10px 12px 14px; }
+    .card h3 { font-size:.88rem; }
+    .cta { padding:12px 8px; }
+  }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -192,51 +211,51 @@
 </div>
 
 <section class="about-deals">
-  <h2>Hand-picked Amazon deals, checked before they are posted</h2>
-  <p>Mind Your Wealth is a small deals site with one simple promise: every product on this page was picked by a person, not scraped by a bot, and its price was checked live on Amazon before it was posted. Deals go stale fast — prices move, coupons expire, and yesterday's bargain is often today's full price — so this page is refreshed every morning and anything that no longer checks out comes down. If a deal is listed here, it was a real deal at the time it was verified.</p>
-  <p>We lean toward products you already know. The buying pattern that actually saves money is a recognizable brand, genuinely discounted — not an unfamiliar name with an inflated "was" price. That is why the deals here favor established brands across kitchen, smart home, self-care, and everyday tech, and why our gift guides are built the same way: proven products with deep review histories, grouped by budget so you can shop by what you want to spend rather than by what an algorithm wants to sell.</p>
+  <h2>Hand-picked Amazon deals, checked before they post</h2>
+  <p>Every product on this page was picked by a person — not scraped by a bot — and price-checked live on Amazon before posting. Deals go stale fast, so the page refreshes every morning, and anything that no longer checks out comes down. If it's listed here, it was a real deal when it was verified.</p>
+  <p>We favor brands you already know, genuinely discounted — not unfamiliar names with inflated "was" prices. Proven products with deep review histories, grouped by budget, so you shop by what you want to spend.</p>
   <h2>Start with a gift guide</h2>
-  <p>Shopping for someone else is where most people overspend, so we publish budget-first buying guides that do the comparison work in advance — honest pros and cons, a quick comparison table, and answers to the questions gift-givers actually ask. Start with <a href="/blog/best-stocking-stuffers-under-15.html">the best stocking stuffers under $15</a>, <a href="/blog/best-gifts-under-25-for-men.html">gifts under $25 for men</a>, <a href="/blog/best-gifts-under-25-for-women.html">gifts under $25 for women</a>, or <a href="/blog/best-kitchen-gadgets-under-25.html">kitchen gadgets under $25</a>, <a href="/blog/best-self-care-gifts-under-30.html">self-care gifts under $30</a>, or <a href="/blog/best-halloween-finds-under-25.html">Halloween finds under $25</a>, or <a href="/blog/best-black-friday-deals-2026.html">the Black Friday 2026 watchlist</a>. Guide prices are deliberately not printed — Amazon prices change daily — so each product links out for the current price.</p>
-  <p>How we make money: as an Amazon Associate, Mind Your Wealth earns from qualifying purchases made through links on this site, at no extra cost to you. That is disclosed on every page and every guide, and it never changes which products get picked — a deal only earns its spot here by being worth your money first.</p>
+  <p>Shopping for someone else is where budgets go to die. Our guides do the comparison work in advance — honest pros and cons, a quick comparison table, real answers to gift-giver questions — each built around a firm budget. Start with <a href="/blog/best-stocking-stuffers-under-15.html">stocking stuffers under $15</a>, <a href="/blog/best-gifts-under-25-for-men.html">gifts under $25 for men</a>, <a href="/blog/best-gifts-under-25-for-women.html">gifts under $25 for women</a>, <a href="/blog/best-kitchen-gadgets-under-25.html">kitchen gadgets under $25</a>, <a href="/blog/best-self-care-gifts-under-30.html">self-care gifts under $30</a>, <a href="/blog/best-halloween-finds-under-25.html">Halloween finds under $25</a>, or <a href="/blog/best-black-friday-deals-2026.html">the Black Friday 2026 watchlist</a>. Prices aren't printed — Amazon moves them daily — so each pick links out to the current price.</p>
+  <p>How we make money: as an Amazon Associate, we earn from qualifying purchases through links on this site, at no extra cost to you. It's disclosed on every page — and it never changes which products get picked.</p>
   <h2>How we find and vet deals</h2>
-  <p>Most deal sites are firehoses: thousands of products scraped automatically and posted whether the discount is real or not. We run the opposite process — slower, smaller, and done by hand. Here is the actual workflow behind every product on this page and in our guides:</p>
+  <p>Most deal sites are firehoses — thousands of scraped products posted whether the discount is real or not. We run the opposite process: slower, smaller, by hand.</p>
   <ul>
-    <li><strong>We start with how people actually shop.</strong> Every morning's scan begins with the categories readers buy from most — kitchen staples, smart-home basics, self-care restocks, and gifts under a set budget — rather than whatever carries the biggest red percentage badge that day.</li>
-    <li><strong>We check the price against its history, not its list price.</strong> A crossed-out "was" price is marketing. What matters is what the item has genuinely sold for over the past few months, so we compare against the typical selling price before calling anything a deal. If the "sale" price is really the everyday price, it doesn't get posted.</li>
-    <li><strong>We screen the reviews like a skeptic.</strong> A high average rating built on a handful of reviews means little, so we look for a deep review history and read the three-star reviews — that is where the honest trade-offs live. Products with patterns of failures, misleading photos, or suspicious review spikes get skipped.</li>
-    <li><strong>We check the seller.</strong> Whenever possible we feature items sold by Amazon or the brand's own store. Thin-feedback third-party sellers are where counterfeits and bait-and-switch listings hide, especially on electronics and beauty products.</li>
-    <li><strong>We apply the "would we buy it" test.</strong> If a product wouldn't earn drawer space in our own kitchen or a spot on our own gift list, it doesn't run — no matter how dramatic the discount looks.</li>
-    <li><strong>We re-verify every morning.</strong> Prices move and coupons expire overnight, so this page is refreshed daily, and anything that no longer checks out comes down.</li>
+    <li><strong>Start where people actually shop.</strong> Kitchen staples, smart-home basics, self-care restocks, gifts under a set budget — not whatever has the biggest red badge.</li>
+    <li><strong>Check price history, not list price.</strong> A crossed-out "was" price is marketing. We compare against what the item actually sold for in recent months.</li>
+    <li><strong>Read reviews like a skeptic.</strong> Deep review history — and we read the three-star reviews, where the honest trade-offs live.</li>
+    <li><strong>Check the seller.</strong> Amazon or the brand's own store whenever possible. Thin-feedback third parties are where counterfeits hide.</li>
+    <li><strong>The "would we buy it" test.</strong> No drawer space in our kitchen, no spot on this page — no matter the discount.</li>
+    <li><strong>Re-verify every morning.</strong> Prices move and coupons expire overnight; anything that stops checking out comes down.</li>
   </ul>
-  <p>That process is also why our guides are ten picks long instead of a hundred. Most of what gets marketed as a deal doesn't survive it — and we'd rather publish a short list you can trust than a long one you have to double-check yourself. To run the same checks on your own finds, our walkthrough on <a href="/blog/how-to-spot-real-amazon-deal.html">how to spot a real Amazon deal</a> covers the five-minute version.</p>
+  <p>That's why our guides run ten picks, not a hundred. Run the same checks yourself with our five-minute walkthrough on <a href="/blog/how-to-spot-real-amazon-deal.html">how to spot a real Amazon deal</a>.</p>
   <h2>Featured guides, organized by who you're shopping for</h2>
-  <p>Every guide below was built the same way: a firm budget, recognizable brands only, honest pros and cons for each pick, and a comparison table plus FAQ at the end. Choose the person — the guide does the homework.</p>
+  <p>Every guide below: a firm budget, recognizable brands only, honest pros and cons for each pick, and a comparison table plus FAQ at the end. Pick the person — the guide does the homework.</p>
   <h3><a href="/blog/best-kitchen-gadgets-under-25.html">Kitchen Gadgets Under $25</a></h3>
-  <p>Ten gadgets people actually reach for weekly — an egg cooker that ends rubbery eggs, a chopper that turns fifteen minutes of prep into two, a thermometer that ends dry chicken. The best starting point for home cooks, new apartment dwellers, and anyone whose kitchen drawer is full of single-use regrets.</p>
+  <p>Ten gadgets people reach for weekly — an egg cooker that ends rubbery eggs, a chopper that cuts prep to minutes, a thermometer that ends dry chicken.</p>
   <h3><a href="/blog/best-gifts-under-25-for-men.html">Gifts Under $25 for Men</a></h3>
-  <p>Built for the man who says he wants "nothing": practical upgrades from brands he already trusts, from a beanie that survives winters to soap that doesn't smell like a gift set. Every pick is something he'd buy himself eventually — you're just beating him to it.</p>
+  <p>For the man who wants "nothing": practical upgrades from brands he already trusts — gifts he'd eventually buy himself.</p>
   <h3><a href="/blog/best-gifts-under-25-for-women.html">Gifts Under $25 for Women</a></h3>
-  <p>For the woman who "doesn't need anything": small luxuries from brands she already knows, weighted toward things that get used up or reached for weekly. The lip mask, eye patches, and silk pillowcase on this list are the opposite of re-gift pile material.</p>
+  <p>Small luxuries from brands she already knows, weighted toward things that get used up or reached for weekly — zero re-gift energy.</p>
   <h3><a href="/blog/best-stocking-stuffers-under-15.html">Stocking Stuffers Under $15</a></h3>
-  <p>The hardest gifts to buy well, solved: small, recognizable, genuinely useful things that fit an actual stocking. Mix three to six picks across recipients — hand warmers, a beloved lip balm, a classic puzzle cube — and every stocking fills itself without filler.</p>
+  <p>Small, recognizable, genuinely useful — and sized for an actual stocking. Mix three to six picks and every stocking fills itself.</p>
   <h3><a href="/blog/best-self-care-gifts-under-30.html">Self-Care Gifts Under $30</a></h3>
-  <p>For the person who never buys this stuff for themselves: trusted-name lotions, soaks, and masks that turn an ordinary evening into a reset. A good pick for caregivers, new parents, and anyone who has been running on empty this year.</p>
+  <p>Trusted-name lotions, soaks, and masks for the person who never buys this stuff for themselves.</p>
   <h3><a href="/blog/best-gifts-for-kids-under-25.html">Gifts for Kids Under $25</a></h3>
-  <p>Recognizable-brand toys and kits with the right age noted for every pick — building sets, art supplies, and games that survive past the holidays. Chosen for open-ended play value rather than whichever character happens to be trending this month.</p>
+  <p>Recognizable-brand toys and kits with the right age noted on every pick, chosen for play value past the holidays.</p>
   <h3><a href="/blog/best-gifts-for-teachers-under-25.html">Gifts for Teachers Under $25</a></h3>
-  <p>Drawn from the supplies teachers normally buy with their own money: the good markers, the pencils that don't vanish by October, laminating pouches, plus a mug warmer and a proper tea for the desk. Useful beats sentimental, every time.</p>
+  <p>Drawn from supplies teachers buy with their own money — the good markers, laminating pouches, plus a mug warmer for the desk.</p>
   <h3><a href="/blog/best-gifts-for-teens-under-25.html">Gifts for Teens Under $25</a></h3>
-  <p>The hardest audience on any list, handled with brands teens actually recognize: LED strips for the bedroom, earbuds, a power bank, and two party games with genuine replay value. Nothing here reads as "an adult guessed."</p>
+  <p>Brands teens actually recognize: LED strips, earbuds, a power bank, and party games with real replay value. Nothing that reads as "an adult guessed."</p>
   <h3><a href="/blog/best-gifts-for-coworkers-under-25.html">Gifts for Coworkers Under $25</a></h3>
-  <p>Office-safe and genuinely welcome: desk upgrades, a spill-proof mug, good notebooks and pens, and break-room crowd-pleasers like quality chocolate and coffee. Appropriate for Secret Santa, managers, and the teammate who saved your quarter.</p>
+  <p>Office-safe desk upgrades, a spill-proof mug, good notebooks, and break-room crowd-pleasers — right for Secret Santa or your manager.</p>
   <h3><a href="/blog/best-white-elephant-gifts-under-25.html">White Elephant Gifts Under $25</a></h3>
-  <p>Funny at the unwrapping, useful after: a burrito blanket, a yodeling pickle, and games people genuinely fight to steal. The guide separates the laughs that land from the gag gifts that go straight to a landfill.</p>
+  <p>Funny at the unwrapping, useful after — a burrito blanket, a yodeling pickle, and games people genuinely fight to steal.</p>
   <h3><a href="/blog/best-halloween-finds-under-25.html">Halloween Finds Under $25</a></h3>
-  <p>Candy strategy, decor that stores flat, and a carving kit that survives to next October. Most picks are reusable year after year, so the per-season cost drops fast after the first Halloween.</p>
+  <p>Candy strategy, decor that stores flat, and a carving kit that survives to next October — most picks reusable every year.</p>
   <h3><a href="/blog/best-black-friday-deals-2026.html">Black Friday 2026 Watchlist</a></h3>
-  <p>Ten products that reliably take their deepest discounts of the year on Black Friday — and what a genuinely good price looks like for each, so you can ignore the fake doorbusters. Start here before the sale-week noise begins.</p>
+  <p>Ten products that take their deepest discounts of the year on Black Friday — plus what a genuinely good price looks like for each.</p>
   <h2>More ways to save on Amazon</h2>
-  <p>The deals page is only one lever. Our complete guide to <a href="/blog/how-to-save-money-on-amazon.html">saving money on Amazon</a> explains the mechanics most shoppers never use: the clipped coupons hiding on product pages, Subscribe &amp; Save discounts that grow when you batch deliveries, price-tracking tools that tell you whether to buy now or wait, and the habits that keep small savings compounding. Pair it with our <a href="/free-trials.html">free trials and signups page</a> — streaming, reading, and delivery trials that cost nothing if you cancel in time — and the <a href="/blog/prime-big-deal-days-2026.html">Amazon sale calendar</a>, which maps Prime Day, Black Friday, and Cyber Monday so you can time the big purchases instead of impulse-buying them in March. Saving money on Amazon is mostly a timing game; these pages exist so you play it on purpose.</p>
+  <p>The deals page is one lever. Our guide to <a href="/blog/how-to-save-money-on-amazon.html">saving money on Amazon</a> covers the mechanics most shoppers skip: clipped coupons, Subscribe &amp; Save batching, and price trackers that tell you to buy now or wait. Pair it with the <a href="/free-trials.html">free trials and signups page</a> and the <a href="/blog/prime-big-deal-days-2026.html">Amazon sale calendar</a> to time the big purchases on purpose. Saving on Amazon is mostly a timing game — these pages help you play it well.</p>
 </section>
 
 <div id="guides">

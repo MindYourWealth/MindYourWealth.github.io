@@ -48,6 +48,27 @@
   .readmore { color:var(--accent-dark); font-weight:700; font-size:.9rem; text-decoration:none; }
   footer { max-width:960px; margin:0 auto 40px; padding:0 20px; font-size:.78rem; color:var(--muted); text-align:center; }
 
+
+  /* ---------- mobile readability ---------- */
+  html { -webkit-text-size-adjust:100%; }
+  body { font-size:16px; }
+  img { max-width:100%; }
+  .cta { padding:11px 18px; }
+  nav.top a { display:inline-block; padding:8px 4px; }
+  details.more { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:2px 16px; margin:0 0 16px; }
+  details.more summary { cursor:pointer; font-weight:700; font-size:1.02rem; color:var(--accent-dark); padding:13px 0; }
+  details.more summary:hover { color:var(--accent); }
+  details.more[open] summary { margin-bottom:4px; }
+  @media (max-width:640px) {
+    header { padding:22px 16px 18px; }
+    header h1 { font-size:1.4rem; }
+    .wrap { padding:20px 16px 32px; }
+    .card { flex-direction:column; }
+    .card img { width:100%; height:190px; }
+    .cta { align-self:stretch; text-align:center; }
+    table.compare { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    article.prose h2 { font-size:1.18rem; margin:24px 0 8px; }
+  }
 </style>
 <!-- Google AdSense site tag -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4103350053949553"
@@ -62,7 +83,7 @@
 <h1>8 Amazon Deals Under $20 Actually Worth Buying (September 2026)</h1>
 <div class="date">September 28, 2026</div>
 <p>Cheap doesn't have to mean junk. Every pick below is under twenty bucks, genuinely useful, and discounted from its list price — the kind of small wins that add up. Prices verified at posting; they can move, so check the current price before checkout.</p>
-<p>This is the page to bookmark if your household runs on small fixes. Nothing here is a "project" — there's no assembly weekend, no learning curve, no app to download. Each pick solves one named annoyance: dust in the keyboard, pans that won't come clean, a gift you forgot until the day before, a classroom that needs supplies in bulk. That's deliberate. The under-$20 tier rewards simple purchases and punishes complicated ones, because at this price a product's reliability matters more than its feature list. Read the "why it made the list" note on each pick — it says plainly what the product is for, who it's really for, and where its limits are, so you can skip confidently as well as buy confidently.</p>
+<p>This is the page to bookmark if your household runs on small fixes. Nothing here is a "project" — no assembly weekend, no learning curve, no app to download. Each pick solves one named annoyance: dust in the keyboard, pans that won't come clean, a gift you forgot until the day before. At this tier, reliability matters more than features — so read the "why it made the list" note on each pick. It says plainly what the product is for, who it's for, and where its limits are.</p>
 <h2>How these picks earned their spot</h2>
 <p>Under-$20 is the most polluted price tier on Amazon — it's where inflated list prices and disposable gadgets go to farm clicks. So every pick here had to pass three tests. First, it solves a real, specific problem (cleaning, charging, organizing, gifting) rather than being a novelty. Second, the brand or product has a review history deep enough that the rating means something. Third, the discount is measured against what the item genuinely sells for, not the fantasy number in the strikethrough. A $14.99 item that is always $14.99 didn't make the cut, no matter how dramatic the "was" price looked.</p>
 
@@ -148,13 +169,16 @@
 </div>
 <h2>The under-$20 rule</h2>
 <p>If it costs less than a takeout lunch and you'll use it weekly, it's almost always worth it. Bookmark <a href="../">Today's Deals</a> — the under-$20 shelf refreshes every morning.</p>
-<h2>How to shop the under-$20 tier without buying junk</h2>
+<details class="more"><summary>Buying tips</summary>
 <p>The trick to cheap finds is remembering that the real cost of a bad $12 purchase isn't $12 — it's $12 plus the $30 replacement you buy next month. Favor simple products with few failure modes (a paste, a cable, a hand tool) over cheap electronics with batteries and apps. Check the rating distribution, not just the average: a 4.4-star product with thousands of reviews is a safer bet than a 4.9 with forty. And when two picks look identical, buy the one from the brand you've heard of — in this tier, brand accountability is worth more than a dollar or two of savings.</p>
+</details>
 <h2>If you only buy three things on this page</h2>
-<p>Start with the cleaning paste. It's the pick with the widest usefulness and the longest life, and it's the one most likely to convert a skeptic into a regular reader of this page — a tub that rescues a pan you were about to throw away does that. Second, the rechargeable air duster if you work at a desk or own anything with a fan in it; it retires a recurring purchase, and retiring a recurring purchase is the purest form of saving money. Third, whichever of the remaining picks matches a date on your calendar: the advent calendar before December, the necklaces before the next birthday you're likely to forget, the steamers before you need a small, decent gift in a hurry. That's the real pattern behind this whole list — buy the useful thing slightly before you need it, at the price it's actually discounted to, and the under-$20 tier stops being a junk drawer and starts being a system.</p>
+<p>Start with the cleaning paste. It's the pick with the widest usefulness and the longest life, and it's the one most likely to convert a skeptic into a regular reader of this page — a tub that rescues a pan you were about to throw away does that. Second, the rechargeable air duster if you work at a desk or own anything with a fan in it; it retires a recurring purchase, and retiring a recurring purchase is the purest form of saving money.</p>
+<p>Third, whichever of the remaining picks matches a date on your calendar: the advent calendar before December, the necklaces before the next birthday you're likely to forget, the steamers before you need a small, decent gift in a hurry. That's the real pattern behind this whole list — buy the useful thing slightly before you need it, at the price it's actually discounted to, and the under-$20 tier stops being a junk drawer and starts being a system.</p>
 <h2>How the under-$20 shelf changes through the year</h2>
-<p>This tier rotates harder than any other. In January it's storage, cleaning, and self-care as households reset; spring brings garden, car, and allergy season staples; summer runs on travel sizes, outdoor odds and ends, and sunscreen-adjacent basics; and from September onward the tier belongs to the holidays — advent calendars, stocking-sized gifts, batteries, tape, and all the small consumables that December eats. We rebuild this roundup as the seasons turn rather than letting it fossilize, and anything that stops being a genuine discount drops off no matter how well it performed. If you're reading this in a different season than the date at the top, check <a href="../">Today's Deals</a> for the current sub-$20 shelf — it refreshes every morning, and it's where new picks prove themselves before they graduate to this page.</p>
-<h2>Frequently asked questions</h2>
+<p>This tier rotates harder than any other. In January it's storage, cleaning, and self-care as households reset; spring brings garden, car, and allergy season staples; summer runs on travel sizes, outdoor odds and ends, and sunscreen-adjacent basics; and from September onward the tier belongs to the holidays — advent calendars, stocking-sized gifts, batteries, tape, and all the small consumables that December eats.</p>
+<p>We rebuild this roundup as the seasons turn rather than letting it fossilize, and anything that stops being a genuine discount drops off no matter how well it performed. If you're reading this in a different season than the date at the top, check <a href="../">Today's Deals</a> for the current sub-$20 shelf — it refreshes every morning, and it's where new picks prove themselves before they graduate to this page.</p>
+<details class="more"><summary>Common questions</summary>
 <h3>Are deals under $20 actually worth it?</h3>
 <p>Some are — the ones that are genuinely discounted versions of products people already buy and rate well. The tier is full of filler, which is exactly why this list is short and every pick had to pass the tests above.</p>
 <h3>Why don't you print more deals?</h3>
@@ -165,6 +189,7 @@
 <p>For a specific person, the initial necklace — personalization makes it feel considered at any budget. For a gift closet (the stash of just-in-case presents every organized household keeps), the shower steamers and the Clinique lipstick win: both are brand-name, one-size, and appropriate for almost any adult on short notice.</p>
 <h3>Should I wait for these to go on sale?</h3>
 <p>Usually not at this tier. The savings from waiting on a sub-$20 item are a dollar or two at best, while the discount shown is already the event. The exception is seasonal stock — advent calendars and holiday items follow a calendar, so buying them a season early (or right after the holiday, for next year) is where the real patience premium lives.</p>
+</details>
 </article>
 </div>
 <footer>
