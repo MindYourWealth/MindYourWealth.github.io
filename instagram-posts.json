@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B01LYDBRYF",
+    "name": "Lorna Doone Shortbread Cookies, 36 Snack Packs (Nabisco)",
+    "price": "$13.76",
+    "was_price": "$29.49",
+    "image": "images/B01LYDBRYF.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfAHTIrDsg_/",
+    "ig_type": "reel",
+    "date": "2026-10-27"
+  },
+  {
     "asin": "B0CTSYP8NK",
     "name": "Chex Mix Traditional, Original Recipe, Family Size",
     "price": "$2.77",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DejyXtgj8aQ/",
     "ig_type": "reel",
     "date": "2026-10-16"
-  },
-  {
-    "asin": "B0FDH36SY7",
-    "name": "Barbie Rise & Surprise Doll & Accessories, Pet Birthday Series (12 surprises, slide + color-change)",
-    "price": "$12.99",
-    "was_price": "$24.99",
-    "image": "images/B0FDH36SY7.jpg",
-    "ig_url": "https://www.instagram.com/reel/DehNzalD5O-/",
-    "ig_type": "reel",
-    "date": "2026-10-15"
   }
 ]
