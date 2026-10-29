@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0044B4HSM",
+    "name": "Blistex Medicated Lip Balm, 0.15 oz, 3-Count (SPF 15)",
+    "price": "$3.65",
+    "was_price": "$7.00",
+    "image": "images/B0044B4HSM.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfFQ31zApm5/",
+    "ig_type": "reel",
+    "date": "2026-10-29"
+  },
+  {
     "asin": "B0D14WHFGG",
     "name": "LIFE SAVERS Exotics Gummy Candy, 7 oz Bag (Pack of 4)",
     "price": "$5.65",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/Deo8F8ej2dq/",
     "ig_type": "reel",
     "date": "2026-10-18"
-  },
-  {
-    "asin": "B0CZ7K936R",
-    "name": "Owala FreeSip Twist Insulated Stainless Steel Water Bottle 24oz (Dreamy Field, Pink/Purple)",
-    "price": "$19.99",
-    "was_price": "$29.99",
-    "image": "images/B0CZ7K936R.jpg",
-    "ig_url": "https://www.instagram.com/reel/DemXZxRj44k/",
-    "ig_type": "reel",
-    "date": "2026-10-17"
   }
 ]
