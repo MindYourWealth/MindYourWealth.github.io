@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0DZXJ7LJG",
+    "name": "CLIF BUILDERS Protein Bars OREO 12ct",
+    "price": "$15.98",
+    "was_price": "$19.15",
+    "image": "images/B0DZXJ7LJG.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfH1tiXjhHa/",
+    "ig_type": "reel",
+    "date": "2026-10-30"
+  },
+  {
     "asin": "B0044B4HSM",
     "name": "Blistex Medicated Lip Balm, 0.15 oz, 3-Count (SPF 15)",
     "price": "$3.65",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DeritHPDzqk/",
     "ig_type": "reel",
     "date": "2026-10-19"
-  },
-  {
-    "asin": "B085263PF3",
-    "name": "Fiskars Floral Bypass Pruning Shears (Floral Pruner, non-stick)",
-    "price": "$8.50",
-    "was_price": "$14.99",
-    "image": "images/B085263PF3.jpg",
-    "ig_url": "https://www.instagram.com/reel/Deo8F8ej2dq/",
-    "ig_type": "reel",
-    "date": "2026-10-18"
   }
 ]
