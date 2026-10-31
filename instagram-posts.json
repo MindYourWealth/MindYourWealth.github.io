@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B08H4FSGDW",
+    "name": "Maybelline Lash Sensational Sky High Washable Mascara, Very Black",
+    "price": "$10.82",
+    "was_price": "$13.99",
+    "image": "images/B08H4FSGDW.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfKaUwKj0wj/",
+    "ig_type": "reel",
+    "date": "2026-10-31"
+  },
+  {
     "asin": "B0DZXJ7LJG",
     "name": "CLIF BUILDERS Protein Bars OREO 12ct",
     "price": "$15.98",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/p/DeuGAGWj80-/",
     "ig_type": "post",
     "date": "2026-10-20"
-  },
-  {
-    "asin": "B09Z6FF1HR",
-    "name": "Bedsure Long Sherpa Wearable Blanket Hoodie (Standard)",
-    "price": "$17.99",
-    "was_price": "$50.99",
-    "image": "images/B09Z6FF1HR.jpg",
-    "ig_url": "https://www.instagram.com/reel/DeritHPDzqk/",
-    "ig_type": "reel",
-    "date": "2026-10-19"
   }
 ]
