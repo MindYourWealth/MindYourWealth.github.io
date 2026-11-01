@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B09Y4HHY1P",
+    "name": "Cetaphil Face Wash, Daily Facial Cleanser for Sensitive, Combination to Oily Skin, 16 oz",
+    "price": "$11.88",
+    "was_price": "$16.99",
+    "image": "images/B09Y4HHY1P.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfNGD3ijBBM/",
+    "ig_type": "reel",
+    "date": "2026-11-01"
+  },
+  {
     "asin": "B08H4FSGDW",
     "name": "Maybelline Lash Sensational Sky High Washable Mascara, Very Black",
     "price": "$10.82",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/Dewqp5Mj8e7/",
     "ig_type": "reel",
     "date": "2026-10-21"
-  },
-  {
-    "asin": "B07PJNXSGH",
-    "name": "Perler Harry Potter 4503-Piece Fuse Bead Kit",
-    "price": "$8.00",
-    "was_price": "$22.96",
-    "image": "images/B07PJNXSGH.jpg",
-    "ig_url": "https://www.instagram.com/p/DeuGAGWj80-/",
-    "ig_type": "post",
-    "date": "2026-10-20"
   }
 ]
