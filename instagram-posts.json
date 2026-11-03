@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0BJMTY6X1",
+    "name": "Tide PODS Laundry Detergent Pacs, 3-in-1 Original, 76 Count",
+    "price": "$17.29",
+    "was_price": "$19.99",
+    "image": "images/B0BJMTY6X1.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfSPnrZDoMy/",
+    "ig_type": "reel",
+    "date": "2026-11-03"
+  },
+  {
     "asin": "B0D6D4K2G8",
     "name": "Glad ForceFlex MaxStrength Tall Kitchen Bags, Cherry Blossom, 90 Count",
     "price": "$11.38",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/De10pvnDqmb/",
     "ig_type": "reel",
     "date": "2026-10-23"
-  },
-  {
-    "asin": "B0DFBCKJHM",
-    "name": "Kinder Bueno Bar, Halloween Candy, Snack Size, 6.8 oz",
-    "price": "$4.97",
-    "was_price": "$8.19",
-    "image": "images/B0DFBCKJHM.jpg",
-    "ig_url": "https://www.instagram.com/reel/DezPlpqD3Yl/",
-    "ig_type": "reel",
-    "date": "2026-10-22"
   }
 ]
