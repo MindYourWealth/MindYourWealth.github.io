@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B07CVZSJZX",
+    "name": "Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg, 200 Liquid Filled Capsules",
+    "price": "$10.79",
+    "was_price": "$21.15",
+    "image": "images/B07CVZSJZX.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfU0cwPDsbx/",
+    "ig_type": "reel",
+    "date": "2026-11-04"
+  },
+  {
     "asin": "B0BJMTY6X1",
     "name": "Tide PODS Laundry Detergent Pacs, 3-in-1 Original, 76 Count",
     "price": "$17.29",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/De4Y3Osj2KT/",
     "ig_type": "reel",
     "date": "2026-10-24"
-  },
-  {
-    "asin": "B0785RNKZS",
-    "name": "Pringles Snack Stacks Variety Pack, 27 Cups",
-    "price": "$10.48",
-    "was_price": "$13.98",
-    "image": "images/B0785RNKZS.jpg",
-    "ig_url": "https://www.instagram.com/reel/De10pvnDqmb/",
-    "ig_type": "reel",
-    "date": "2026-10-23"
   }
 ]
