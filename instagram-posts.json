@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B001F0RBT2",
+    "name": "Swiffer WetJet Hardwood Floor Cleaner Spray Mop Pad Refill, Multi Surface, 24 Count",
+    "price": "$7.76",
+    "was_price": "$15.67",
+    "image": "images/B001F0RBT2.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfcjDf6k3m8/",
+    "ig_type": "reel",
+    "date": "2026-11-07"
+  },
+  {
     "asin": "B07DTQSYMS",
     "name": "The Honest Company 2-in-1 Cleansing Shampoo + Body Wash, Citrus Vanilla Refresh, 18 fl oz",
     "price": "$8.22",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfAHTIrDsg_/",
     "ig_type": "reel",
     "date": "2026-10-27"
-  },
-  {
-    "asin": "B0CTSYP8NK",
-    "name": "Chex Mix Traditional, Original Recipe, Family Size",
-    "price": "$2.77",
-    "was_price": "$3.46",
-    "image": "images/B0CTSYP8NK.jpg",
-    "ig_url": "https://www.instagram.com/reel/De9idVpDxlV/",
-    "ig_type": "reel",
-    "date": "2026-10-26"
   }
 ]
