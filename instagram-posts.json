@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B08TDYG8G2",
+    "name": "Raid MAX Liquid Ant Bait Stations, Outdoor and Indoor, 4 Count",
+    "price": "$3.27",
+    "was_price": "$6.65",
+    "image": "images/B08TDYG8G2.jpg",
+    "ig_url": "https://www.instagram.com/reel/DffHmMvE3qQ/",
+    "ig_type": "reel",
+    "date": "2026-11-08"
+  },
+  {
     "asin": "B001F0RBT2",
     "name": "Swiffer WetJet Hardwood Floor Cleaner Spray Mop Pad Refill, Multi Surface, 24 Count",
     "price": "$7.76",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfCsA-sDC24/",
     "ig_type": "reel",
     "date": "2026-10-28"
-  },
-  {
-    "asin": "B01LYDBRYF",
-    "name": "Lorna Doone Shortbread Cookies, 36 Snack Packs (Nabisco)",
-    "price": "$13.76",
-    "was_price": "$29.49",
-    "image": "images/B01LYDBRYF.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfAHTIrDsg_/",
-    "ig_type": "reel",
-    "date": "2026-10-27"
   }
 ]
