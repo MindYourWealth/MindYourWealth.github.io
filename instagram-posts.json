@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0D14X28KG",
+    "name": "Stove Top Savory Herb Stuffing Mix (6 oz Box) (Pack of 4)",
+    "price": "$3.38",
+    "was_price": "$8.32",
+    "image": "images/B0D14X28KG.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfkRKKID1t-/",
+    "ig_type": "reel",
+    "date": "2026-11-10"
+  },
+  {
     "asin": "B0D6X6CKBX",
     "name": "CeraVe Intensive Moisturizing Lotion, 16 oz (Hydro-Urea + Shea Butter)",
     "price": "$15.99",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfH1tiXjhHa/",
     "ig_type": "reel",
     "date": "2026-10-30"
-  },
-  {
-    "asin": "B0044B4HSM",
-    "name": "Blistex Medicated Lip Balm, 0.15 oz, 3-Count (SPF 15)",
-    "price": "$3.65",
-    "was_price": "$7.00",
-    "image": "images/B0044B4HSM.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfFQ31zApm5/",
-    "ig_type": "reel",
-    "date": "2026-10-29"
   }
 ]
