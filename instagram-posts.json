@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B009M8VWT4",
+    "name": "Slim Jim Smoked Meat Sticks, Original Flavor, 0.28 oz (14 Count)",
+    "price": "$3.12",
+    "was_price": "$3.93",
+    "image": "images/B009M8VWT4.jpg",
+    "ig_url": "https://www.instagram.com/reel/Dfm1__yj8w6/",
+    "ig_type": "reel",
+    "date": "2026-11-11"
+  },
+  {
     "asin": "B0D14X28KG",
     "name": "Stove Top Savory Herb Stuffing Mix (6 oz Box) (Pack of 4)",
     "price": "$3.38",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfKaUwKj0wj/",
     "ig_type": "reel",
     "date": "2026-10-31"
-  },
-  {
-    "asin": "B0DZXJ7LJG",
-    "name": "CLIF BUILDERS Protein Bars OREO 12ct",
-    "price": "$15.98",
-    "was_price": "$19.15",
-    "image": "images/B0DZXJ7LJG.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfH1tiXjhHa/",
-    "ig_type": "reel",
-    "date": "2026-10-30"
   }
 ]
