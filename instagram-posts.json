@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B08Y6S4LC8",
+    "name": "Siete Family Foods Fuego Potato Chips, 5.5 oz Bag",
+    "price": "$2.33",
+    "was_price": "$4.49",
+    "image": "images/B08Y6S4LC8.jpg",
+    "ig_url": "https://www.instagram.com/reel/Dfpax-vE_CS/",
+    "ig_type": "reel",
+    "date": "2026-11-12"
+  },
+  {
     "asin": "B009M8VWT4",
     "name": "Slim Jim Smoked Meat Sticks, Original Flavor, 0.28 oz (14 Count)",
     "price": "$3.12",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfNGD3ijBBM/",
     "ig_type": "reel",
     "date": "2026-11-01"
-  },
-  {
-    "asin": "B08H4FSGDW",
-    "name": "Maybelline Lash Sensational Sky High Washable Mascara, Very Black",
-    "price": "$10.82",
-    "was_price": "$13.99",
-    "image": "images/B08H4FSGDW.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfKaUwKj0wj/",
-    "ig_type": "reel",
-    "date": "2026-10-31"
   }
 ]
