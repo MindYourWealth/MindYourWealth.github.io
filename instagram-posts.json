@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0CPZH9MBJ",
+    "name": "CRAFTSMAN Mechanics Tool Set, 1/4 Inch Drive, 20 Piece (CMMT12108)",
+    "price": "$19.98",
+    "was_price": "$36.98",
+    "image": "images/B0CPZH9MBJ.jpg",
+    "ig_url": "https://www.instagram.com/reel/Dfr_q3aDKp5/",
+    "ig_type": "reel",
+    "date": "2026-11-13"
+  },
+  {
     "asin": "B08Y6S4LC8",
     "name": "Siete Family Foods Fuego Potato Chips, 5.5 oz Bag",
     "price": "$2.33",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfPq3BrjjrT/",
     "ig_type": "reel",
     "date": "2026-11-02"
-  },
-  {
-    "asin": "B09Y4HHY1P",
-    "name": "Cetaphil Face Wash, Daily Facial Cleanser for Sensitive, Combination to Oily Skin, 16 oz",
-    "price": "$11.88",
-    "was_price": "$16.99",
-    "image": "images/B09Y4HHY1P.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfNGD3ijBBM/",
-    "ig_type": "reel",
-    "date": "2026-11-01"
   }
 ]
