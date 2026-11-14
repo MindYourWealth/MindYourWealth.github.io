@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B004TPU7LO",
+    "name": "PLANTERS Salted Peanuts, 1 oz Bags (48 Pack)",
+    "price": "$8.98",
+    "was_price": null,
+    "image": "images/B004TPU7LO.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfukbUpDw_X/",
+    "ig_type": "reel",
+    "date": "2026-11-14"
+  },
+  {
     "asin": "B0CPZH9MBJ",
     "name": "CRAFTSMAN Mechanics Tool Set, 1/4 Inch Drive, 20 Piece (CMMT12108)",
     "price": "$19.98",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfSPnrZDoMy/",
     "ig_type": "reel",
     "date": "2026-11-03"
-  },
-  {
-    "asin": "B0D6D4K2G8",
-    "name": "Glad ForceFlex MaxStrength Tall Kitchen Bags, Cherry Blossom, 90 Count",
-    "price": "$11.38",
-    "was_price": "$18.98",
-    "image": "images/B0D6D4K2G8.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfPq3BrjjrT/",
-    "ig_type": "reel",
-    "date": "2026-11-02"
   }
 ]
