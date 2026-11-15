@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0D14Z8BF8",
+    "name": "Multi Grain Cheerios Cereal, Large Size, 12 oz (Pack of 4)",
+    "price": "$8.48",
+    "was_price": "$15.84",
+    "image": "images/B0D14Z8BF8.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfxJTHCjy4r/",
+    "ig_type": "reel",
+    "date": "2026-11-15"
+  },
+  {
     "asin": "B004TPU7LO",
     "name": "PLANTERS Salted Peanuts, 1 oz Bags (48 Pack)",
     "price": "$8.98",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfU0cwPDsbx/",
     "ig_type": "reel",
     "date": "2026-11-04"
-  },
-  {
-    "asin": "B0BJMTY6X1",
-    "name": "Tide PODS Laundry Detergent Pacs, 3-in-1 Original, 76 Count",
-    "price": "$17.29",
-    "was_price": "$19.99",
-    "image": "images/B0BJMTY6X1.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfSPnrZDoMy/",
-    "ig_type": "reel",
-    "date": "2026-11-03"
   }
 ]
