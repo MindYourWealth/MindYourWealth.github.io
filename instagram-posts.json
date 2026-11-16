@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0195I8XR4",
+    "name": "Neutrogena Makeup Remover Wipes, Fragrance-Free, 25 Ct (single pack)",
+    "price": "$5.67",
+    "was_price": "$7.59",
+    "image": "images/B0195I8XR4.jpg",
+    "ig_url": "https://www.instagram.com/reel/DfzuIlDE3kN/",
+    "ig_type": "reel",
+    "date": "2026-11-16"
+  },
+  {
     "asin": "B0D14Z8BF8",
     "name": "Multi Grain Cheerios Cereal, Large Size, 12 oz (Pack of 4)",
     "price": "$8.48",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfXa2ScE88P/",
     "ig_type": "reel",
     "date": "2026-11-05"
-  },
-  {
-    "asin": "B07CVZSJZX",
-    "name": "Advil Liqui-Gels minis Pain Reliever and Fever Reducer, Ibuprofen 200mg, 200 Liquid Filled Capsules",
-    "price": "$10.79",
-    "was_price": "$21.15",
-    "image": "images/B07CVZSJZX.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfU0cwPDsbx/",
-    "ig_type": "reel",
-    "date": "2026-11-04"
   }
 ]
