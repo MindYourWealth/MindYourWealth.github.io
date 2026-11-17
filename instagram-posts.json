@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B08PP48979",
+    "name": "COSORI Electric Kettle, No Plastic Contact With Water, Wide Mouth, Auto Shut Off, 1.7L, Borosilicate Glass, Black, 1500W",
+    "price": "$23.69",
+    "was_price": "$27.99",
+    "image": "images/B08PP48979.jpg",
+    "ig_url": "https://www.instagram.com/reel/Df2S4CBk8ZE/",
+    "ig_type": "reel",
+    "date": "2026-11-17"
+  },
+  {
     "asin": "B0195I8XR4",
     "name": "Neutrogena Makeup Remover Wipes, Fragrance-Free, 25 Ct (single pack)",
     "price": "$5.67",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfZ-QB-Dr8O/",
     "ig_type": "reel",
     "date": "2026-11-06"
-  },
-  {
-    "asin": "B008PQD65M",
-    "name": "Nature Made Magnesium 250 mg, 90 Softgels",
-    "price": "$5.69",
-    "was_price": "$12.39",
-    "image": "images/B008PQD65M.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfXa2ScE88P/",
-    "ig_type": "reel",
-    "date": "2026-11-05"
   }
 ]
