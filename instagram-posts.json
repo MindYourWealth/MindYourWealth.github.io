@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00ID13Z2S",
+    "name": "L'Oreal Paris Hair Care Advanced Hairstyle Boost It Volume Inject Mousse, 8.3 Ounce",
+    "price": "$3.97",
+    "was_price": "$7.99",
+    "image": "images/B00ID13Z2S.jpg",
+    "ig_url": "https://www.instagram.com/reel/Df43sYcjkdJ/",
+    "ig_type": "reel",
+    "date": "2026-11-18"
+  },
+  {
     "asin": "B08PP48979",
     "name": "COSORI Electric Kettle, No Plastic Contact With Water, Wide Mouth, Auto Shut Off, 1.7L, Borosilicate Glass, Black, 1500W",
     "price": "$23.69",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfcjDf6k3m8/",
     "ig_type": "reel",
     "date": "2026-11-07"
-  },
-  {
-    "asin": "B07DTQSYMS",
-    "name": "The Honest Company 2-in-1 Cleansing Shampoo + Body Wash, Citrus Vanilla Refresh, 18 fl oz",
-    "price": "$8.22",
-    "was_price": null,
-    "image": "images/B07DTQSYMS.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfZ-QB-Dr8O/",
-    "ig_type": "reel",
-    "date": "2026-11-06"
   }
 ]
