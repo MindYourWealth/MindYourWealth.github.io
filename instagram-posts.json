@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00PFDH0K0",
+    "name": "Jade Leaf Matcha Organic Culinary Grade Matcha Powder, 100g / 3.53 oz",
+    "price": "$12.34",
+    "was_price": "$27.99",
+    "image": "images/B00PFDH0K0.jpg",
+    "ig_url": "https://www.instagram.com/reel/Df7cVfhCS9V/",
+    "ig_type": "reel",
+    "date": "2026-11-19"
+  },
+  {
     "asin": "B00ID13Z2S",
     "name": "L'Oreal Paris Hair Care Advanced Hairstyle Boost It Volume Inject Mousse, 8.3 Ounce",
     "price": "$3.97",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DffHmMvE3qQ/",
     "ig_type": "reel",
     "date": "2026-11-08"
-  },
-  {
-    "asin": "B001F0RBT2",
-    "name": "Swiffer WetJet Hardwood Floor Cleaner Spray Mop Pad Refill, Multi Surface, 24 Count",
-    "price": "$7.76",
-    "was_price": "$15.67",
-    "image": "images/B001F0RBT2.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfcjDf6k3m8/",
-    "ig_type": "reel",
-    "date": "2026-11-07"
   }
 ]
