@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0DR3XYYB5",
+    "name": "Hot Wheels Toy Car Track Set, Formula 1 Grand Prix Circuit Track Set with 3 1:64 Scale Die-Cast Toy Cars",
+    "price": "$17.49",
+    "was_price": null,
+    "image": "images/B0DR3XYYB5.jpg",
+    "ig_url": "https://www.instagram.com/reel/Df-BHMoic7a/",
+    "ig_type": "reel",
+    "date": "2026-11-20"
+  },
+  {
     "asin": "B00PFDH0K0",
     "name": "Jade Leaf Matcha Organic Culinary Grade Matcha Powder, 100g / 3.53 oz",
     "price": "$12.34",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfhsdtrCc4P/",
     "ig_type": "reel",
     "date": "2026-11-09"
-  },
-  {
-    "asin": "B08TDYG8G2",
-    "name": "Raid MAX Liquid Ant Bait Stations, Outdoor and Indoor, 4 Count",
-    "price": "$3.27",
-    "was_price": "$6.65",
-    "image": "images/B08TDYG8G2.jpg",
-    "ig_url": "https://www.instagram.com/reel/DffHmMvE3qQ/",
-    "ig_type": "reel",
-    "date": "2026-11-08"
   }
 ]
