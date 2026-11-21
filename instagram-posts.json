@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00DS4Q1IK",
+    "name": "Starbucks Ready to Drink Coffee, Espresso & Cream, 6.5 oz Cans (12 Pack)",
+    "price": "$13.98",
+    "was_price": "$19.98",
+    "image": "images/B00DS4Q1IK.jpg",
+    "ig_url": "https://www.instagram.com/reel/DgAl7IlDqrA/",
+    "ig_type": "reel",
+    "date": "2026-11-21"
+  },
+  {
     "asin": "B0DR3XYYB5",
     "name": "Hot Wheels Toy Car Track Set, Formula 1 Grand Prix Circuit Track Set with 3 1:64 Scale Die-Cast Toy Cars",
     "price": "$17.49",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfkRKKID1t-/",
     "ig_type": "reel",
     "date": "2026-11-10"
-  },
-  {
-    "asin": "B0D6X6CKBX",
-    "name": "CeraVe Intensive Moisturizing Lotion, 16 oz (Hydro-Urea + Shea Butter)",
-    "price": "$15.99",
-    "was_price": "$23.99",
-    "image": "images/B0D6X6CKBX.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfhsdtrCc4P/",
-    "ig_type": "reel",
-    "date": "2026-11-09"
   }
 ]
