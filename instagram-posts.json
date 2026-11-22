@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0G2BPGFRW",
+    "name": "Pets Alive Mommy Elephant & Baby Surprise (ZURU)",
+    "price": "$29.49",
+    "was_price": "$49.99",
+    "image": "images/B0G2BPGFRW.jpg",
+    "ig_url": "https://www.instagram.com/reel/DgDKuIRDFwl/",
+    "ig_type": "reel",
+    "date": "2026-11-22"
+  },
+  {
     "asin": "B00DS4Q1IK",
     "name": "Starbucks Ready to Drink Coffee, Espresso & Cream, 6.5 oz Cans (12 Pack)",
     "price": "$13.98",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/Dfm1__yj8w6/",
     "ig_type": "reel",
     "date": "2026-11-11"
-  },
-  {
-    "asin": "B0D14X28KG",
-    "name": "Stove Top Savory Herb Stuffing Mix (6 oz Box) (Pack of 4)",
-    "price": "$3.38",
-    "was_price": "$8.32",
-    "image": "images/B0D14X28KG.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfkRKKID1t-/",
-    "ig_type": "reel",
-    "date": "2026-11-10"
   }
 ]
