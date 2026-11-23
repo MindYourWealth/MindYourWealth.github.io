@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B00T7PDB3C",
+    "name": "Mrs. Meyer's Clean Day Liquid Dish Soap, Honeysuckle Scent, 16 fl oz",
+    "price": "$1.94",
+    "was_price": "$3.87",
+    "image": "images/B00T7PDB3C.jpg",
+    "ig_url": "https://www.instagram.com/reel/DgFvmQeE4pP/",
+    "ig_type": "reel",
+    "date": "2026-11-23"
+  },
+  {
     "asin": "B0G2BPGFRW",
     "name": "Pets Alive Mommy Elephant & Baby Surprise (ZURU)",
     "price": "$29.49",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/Dfpax-vE_CS/",
     "ig_type": "reel",
     "date": "2026-11-12"
-  },
-  {
-    "asin": "B009M8VWT4",
-    "name": "Slim Jim Smoked Meat Sticks, Original Flavor, 0.28 oz (14 Count)",
-    "price": "$3.12",
-    "was_price": "$3.93",
-    "image": "images/B009M8VWT4.jpg",
-    "ig_url": "https://www.instagram.com/reel/Dfm1__yj8w6/",
-    "ig_type": "reel",
-    "date": "2026-11-11"
   }
 ]
