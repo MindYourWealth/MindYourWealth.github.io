@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B003VPTA2U",
+    "name": "IT Cosmetics Brow Power Pencil, Universal Taupe",
+    "price": "$11.70",
+    "was_price": "$26.00",
+    "image": "images/B003VPTA2U.jpg",
+    "ig_url": "https://www.instagram.com/p/DgIU0vcDpwV/",
+    "ig_type": "post",
+    "date": "2026-11-24"
+  },
+  {
     "asin": "B00T7PDB3C",
     "name": "Mrs. Meyer's Clean Day Liquid Dish Soap, Honeysuckle Scent, 16 fl oz",
     "price": "$1.94",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/Dfr_q3aDKp5/",
     "ig_type": "reel",
     "date": "2026-11-13"
-  },
-  {
-    "asin": "B08Y6S4LC8",
-    "name": "Siete Family Foods Fuego Potato Chips, 5.5 oz Bag",
-    "price": "$2.33",
-    "was_price": "$4.49",
-    "image": "images/B08Y6S4LC8.jpg",
-    "ig_url": "https://www.instagram.com/reel/Dfpax-vE_CS/",
-    "ig_type": "reel",
-    "date": "2026-11-12"
   }
 ]
