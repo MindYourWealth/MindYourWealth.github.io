@@ -1,5 +1,15 @@
 [
   {
+    "asin": "B0898YWTXV",
+    "name": "Goldfish Crackers Say Cheeeese Variety Pack, 20 Ct",
+    "price": "$6.66",
+    "was_price": "$8.76",
+    "image": "images/B0898YWTXV.jpg",
+    "ig_url": "https://www.instagram.com/reel/DgNdxAMz059/",
+    "ig_type": "reel",
+    "date": "2026-11-26"
+  },
+  {
     "asin": "B0G27P2LGS",
     "name": "Native Scalp Detox Shampoo and Conditioner, Eucalyptus & Mint, 2-Pack",
     "price": "$13.15",
@@ -108,15 +118,5 @@
     "ig_url": "https://www.instagram.com/reel/DfxJTHCjy4r/",
     "ig_type": "reel",
     "date": "2026-11-15"
-  },
-  {
-    "asin": "B004TPU7LO",
-    "name": "PLANTERS Salted Peanuts, 1 oz Bags (48 Pack)",
-    "price": "$8.98",
-    "was_price": null,
-    "image": "images/B004TPU7LO.jpg",
-    "ig_url": "https://www.instagram.com/reel/DfukbUpDw_X/",
-    "ig_type": "reel",
-    "date": "2026-11-14"
   }
 ]
